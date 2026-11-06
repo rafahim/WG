@@ -1,0 +1,15 @@
+{
+  "name": "Wishly Guide",
+  "short_name": "Wishly Guide",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f1ea",
+  "theme_color": "#211a20",
+  "icons": [
+    {
+      "src": "/assets/logo-mark-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

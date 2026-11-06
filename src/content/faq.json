@@ -1,0 +1,115 @@
+{
+  "html": "<a class=\"skip-link\" href=\"#main\">Skip to content</a>\n<header class=\"premium-nav site-header\" role=\"banner\">\n  <div class=\"premium-container premium-nav-inner container\">\n    <a aria-label=\"Wishly Guide home\" class=\"brand-lockup\" href=\"/\">\n      <span class=\"brand-mark\" aria-hidden=\"true\">✦</span>\n      <span><b>Wishly</b><small>Create moments</small></span>\n    </a>\n    <nav aria-label=\"Main navigation\" id=\"wishly-guide-navigation\" class=\"premium-nav-links nav-links\">\n      <a href=\"/guides/\">Guides</a>\n      <a href=\"/features/\">Features</a>\n      <a href=\"/guides/create-wish-website/\">How it works</a>\n      <a href=\"/about/\">About</a>\n      <a href=\"/faq/\" class=\"active\" aria-current=\"page\">FAQ</a>\n      <a class=\"nav-mobile-link\" href=\"https://wishly.bd/\" target=\"_blank\" rel=\"noopener noreferrer\">Open main website ↗</a>\n      <a class=\"nav-mobile-link nav-mobile-primary\" href=\"https://wishly.bd/create/\" target=\"_blank\" rel=\"noopener noreferrer\">Create website →</a>\n    </nav>\n    <div class=\"premium-nav-actions nav-actions\">\n      <a class=\"wp-trigger main-site-pill\" href=\"https://wishly.bd/\" target=\"_blank\" rel=\"noopener noreferrer\" aria-label=\"Main Wishly — open Wishly main website\">\n        <span class=\"wp-av\" aria-hidden=\"true\">✦</span><span class=\"wp-label\">Main Wishly</span><span class=\"wp-chev\" aria-hidden=\"true\">↗</span>\n      </a>\n      <a class=\"nav-cta\" href=\"https://wishly.bd/create/\" target=\"_blank\" rel=\"noopener noreferrer\">Create website <span aria-hidden=\"true\">→</span></a>\n      <a class=\"lang-link\" href=\"/bn/\" lang=\"bn\">বাংলা</a>\n      <button aria-expanded=\"false\" aria-label=\"Open navigation menu\" aria-controls=\"wishly-guide-navigation\" class=\"menu-toggle mobile-nav-toggle\" type=\"button\"><span></span><span></span><span></span></button>\n    </div>\n  </div>\n</header><main id=\"main\"><section class=\"page-hero\"><div class=\"container\"><div class=\"page-heading\"><span class=\"eyebrow\">HELP &amp; ANSWERS</span><h1>Questions,<br/><em>answered clearly.</em></h1><p>Quick answers about Wishly, creating a website, editing templates, changing design settings, publishing and sharing your page.</p></div></div></section><section class=\"page-body\"><div class=\"container\"><div class=\"faq-list\"><details class=\"reveal\"><summary>What is Wishly?</summary><p>Wishly is a browser-based website maker for personal wish pages and digital experiences such as birthday messages, proposals, anniversaries, apologies, friendship notes and invitations.</p></details><details class=\"reveal\"><summary>Do I need coding skills to use Wishly?</summary><p>No. You can start with a template and use the visual editor to personalize the fields and media supported by that design.</p></details><details class=\"reveal\"><summary>Can I create a Wishly website from my phone?</summary><p>Yes. The workflow is designed for phones as well as computers. Review the editor and preview at mobile width before publishing.</p></details><details class=\"reveal\"><summary>Can I use my own photos, music or video?</summary><p>You can add or replace supported media where the selected template provides those fields. The available media options can differ from one design to another.</p></details><details class=\"reveal\"><summary>Does every Wishly template have the same features?</summary><p>No. Each template has its own layout and supported interactions. Check its preview and guide to see whether it includes a countdown, RSVP, gallery, music, reply form or another section.</p></details><details class=\"reveal\"><summary>Can I change the colors and font?</summary><p>Yes. Open Design settings for the template you are editing. Choose an available color preset or custom HEX color and select one of the available fonts.</p></details><details class=\"reveal\"><summary>Can I preview before publishing?</summary><p>Yes. Switch to Preview to see the page as a visitor without the editing controls. After publishing, open the public link too.</p></details><details class=\"reveal\"><summary>How do I share my published website?</summary><p>Copy the published page link and send it through a messaging app or another channel. A QR code may also be available for sharing.</p></details><details class=\"reveal\"><summary>Can I customize the link preview?</summary><p>Wishly provides an optional Link Preview section on the publishing screen where you can add a title, description and photo. Some messaging apps may cache an earlier preview for a while.</p></details><details class=\"reveal\"><summary>Is a published page private?</summary><p>A page shared by a public link should be treated as accessible to anyone who receives or is forwarded that link. Avoid adding sensitive personal information and only use media you have permission to share.</p></details><details class=\"reveal\"><summary>Are all Wishly features free?</summary><p>Check the current official Wishly website for the latest availability and any changes to plans or limits. Feature availability can change over time.</p></details><details class=\"reveal\"><summary>Where can I get started?</summary><p>Visit the official Wishly website, browse the template collection, choose a design and follow the getting-started guide on Wishly Guide.</p></details><details><summary>Can I share a Wishly website with someone in another country?</summary><p>A published Wishly page is shared through a web link, so you can send it to someone in another country. They can open it in a browser when they have internet access and the service is reachable on their network. Before sharing, check that the page contains only details and photos you are comfortable making accessible to anyone who receives the link.</p></details></div><div class=\"cta-band reveal\" style=\"margin-top:55px\"><div><h2>Still deciding where to begin?</h2><p>Follow the step-by-step guide from your first template to a published link.</p></div><a class=\"btn\" href=\"/guides/create-wish-website/\">Read the guide ↗</a></div></div></section></main><footer class=\"site-footer hp-foot\">\n      <div class=\"premium-container\">\n        <div class=\"hp-foot-row footer-main-row\">\n          <div class=\"hp-foot-brand\">\n            <a aria-label=\"Wishly Guide home\" class=\"brand-lockup brand\" href=\"/\">\n              <span class=\"brand-mark\" aria-hidden=\"true\">✦</span><span class=\"brand-lockup-copy\"><b>Wishly</b><small>GUIDE · CREATE MOMENTS</small></span>\n            </a>\n            <p>Ideas, practical tutorials and clear answers for creating personal websites that make life’s special moments feel even more memorable.</p>\n            <a class=\"premium-button premium-button-ghost footer-main-cta\" href=\"https://wishly.bd/\" target=\"_blank\" rel=\"noopener noreferrer\">Main Wishly website ↗</a>\n          </div>\n          <div class=\"footer-link-group\"><h4>Explore</h4><a href=\"/guides/\">All guides</a><a href=\"/features/\">Wishly features</a><a href=\"/faq/\">Frequently asked</a><a href=\"/about/\">About Wishly</a></div>\n          <div class=\"footer-link-group\"><h4>Wishly</h4><a href=\"https://wishly.bd/\" target=\"_blank\" rel=\"noopener noreferrer\">Main Wishly website ↗</a><a href=\"https://wishly.bd/templates/\" target=\"_blank\" rel=\"noopener noreferrer\">Browse templates ↗</a><a href=\"https://wishly.bd/create/\" target=\"_blank\" rel=\"noopener noreferrer\">Create a website ↗</a></div>\n        </div>\n        <div class=\"footer-bottom\"><span>© 2026 Wishly Guide. All rights reserved.</span><span>Part of the <a href=\"https://wishly.bd/\" target=\"_blank\" rel=\"noopener noreferrer\">Wishly</a> experience.</span></div>\n        <div class=\"container footer-legal-links\"><a href=\"/privacy/\">Privacy</a><a href=\"/terms/\">Terms</a><a href=\"/editorial-policy/\">Editorial policy</a><a href=\"/contact/\">Contact</a></div>\n      </div>\n    </footer><div aria-hidden=\"true\" class=\"reading-progress\"></div><button aria-label=\"Back to top\" class=\"back-top\" type=\"button\">↑</button>",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is Wishly?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Wishly is a browser-based website maker for personal wish pages and digital experiences such as birthday messages, proposals, anniversaries, apologies, friendship notes and invitations."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do I need coding skills to use Wishly?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No. You can start with a template and use the visual editor to personalize the fields and media supported by that design."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I create a Wishly website from my phone?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. The workflow is designed for phones as well as computers. Review the editor and preview at mobile width before publishing."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I use my own photos, music or video?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "You can add or replace supported media where the selected template provides those fields. The available media options can differ from one design to another."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Does every Wishly template have the same features?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No. Each template has its own layout and supported interactions. Check its preview and guide to see whether it includes a countdown, RSVP, gallery, music, reply form or another section."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I change the colors and font?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Open Design settings for the template you are editing. Choose an available color preset or custom HEX color and select one of the available fonts."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I preview before publishing?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Switch to Preview to see the page as a visitor without the editing controls. After publishing, open the public link too."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do I share my published website?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Copy the published page link and send it through a messaging app or another channel. A QR code may also be available for sharing."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I customize the link preview?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Wishly provides an optional Link Preview section on the publishing screen where you can add a title, description and photo. Some messaging apps may cache an earlier preview for a while."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is a published page private?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A page shared by a public link should be treated as accessible to anyone who receives or is forwarded that link. Avoid adding sensitive personal information and only use media you have permission to share."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Are all Wishly features free?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Check the current official Wishly website for the latest availability and any changes to plans or limits. Feature availability can change over time."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Where can I get started?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Visit the official Wishly website, browse the template collection, choose a design and follow the getting-started guide on Wishly Guide."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I share a Wishly website with someone in another country?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A published Wishly page is shared through a web link, so you can send it to someone in another country. They can open it in a browser when they have internet access and the service is reachable on their network. Before sharing, check that the page contains only details and photos you are comfortable making accessible to anyone who receives the link."
+        }
+      }
+    ]
+  },
+  "lang": "en",
+  "source": "faq/index.html"
+}

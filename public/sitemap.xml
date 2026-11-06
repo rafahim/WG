@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://guide.wishly.bd/about/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://guide.wishly.bd/bn/guides/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://guide.wishly.bd/guides/" />
+    <xhtml:link rel="alternate" hreflang="bn" href="https://guide.wishly.bd/bn/guides/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://guide.wishly.bd/guides/" />
+  </url>
+  <url>
+    <loc>https://guide.wishly.bd/bn/guides/wish-website-toiri/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://guide.wishly.bd/guides/create-wish-website/" />
+    <xhtml:link rel="alternate" hreflang="bn" href="https://guide.wishly.bd/bn/guides/wish-website-toiri/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://guide.wishly.bd/guides/create-wish-website/" />
+  </url>
+  <url>
+    <loc>https://guide.wishly.bd/bn/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://guide.wishly.bd/" />
+    <xhtml:link rel="alternate" hreflang="bn" href="https://guide.wishly.bd/bn/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://guide.wishly.bd/" />
+  </url>
+  <url>
+    <loc>https://guide.wishly.bd/contact/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://guide.wishly.bd/editorial-policy/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://guide.wishly.bd/faq/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://guide.wishly.bd/features/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://guide.wishly.bd/guides/anniversary-website-ideas/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://guide.wishly.bd/guides/birthday-website-message-ideas/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://guide.wishly.bd/guides/birthday-wish-website/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://guide.wishly.bd/guides/create-wish-website/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://guide.wishly.bd/guides/create-wish-website/" />
+    <xhtml:link rel="alternate" hreflang="bn" href="https://guide.wishly.bd/bn/guides/wish-website-toiri/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://guide.wishly.bd/guides/create-wish-website/" />
+  </url>
+  <url>
+    <loc>https://guide.wishly.bd/guides/digital-love-letter-website/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://guide.wishly.bd/guides/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://guide.wishly.bd/guides/" />
+    <xhtml:link rel="alternate" hreflang="bn" href="https://guide.wishly.bd/bn/guides/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://guide.wishly.bd/guides/" />
+  </url>
+  <url>
+    <loc>https://guide.wishly.bd/guides/proposal-website/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://guide.wishly.bd/guides/share-wish-website-link/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://guide.wishly.bd/guides/theme-font-settings/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://guide.wishly.bd/guides/wedding-invitation-website/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://guide.wishly.bd/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://guide.wishly.bd/" />
+    <xhtml:link rel="alternate" hreflang="bn" href="https://guide.wishly.bd/bn/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://guide.wishly.bd/" />
+  </url>
+  <url>
+    <loc>https://guide.wishly.bd/privacy/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://guide.wishly.bd/terms/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+<url><loc>https://guide.wishly.bd/guides/friendship-website-ideas/</loc><lastmod>2026-11-07</lastmod><changefreq>monthly</changefreq><priority>0.78</priority></url><url><loc>https://guide.wishly.bd/guides/apology-website-guide/</loc><lastmod>2026-11-07</lastmod><changefreq>monthly</changefreq><priority>0.78</priority></url><url><loc>https://guide.wishly.bd/guides/thank-you-website-guide/</loc><lastmod>2026-11-07</lastmod><changefreq>monthly</changefreq><priority>0.78</priority></url><url><loc>https://guide.wishly.bd/guides/personal-website-without-coding/</loc><lastmod>2026-11-07</lastmod><changefreq>monthly</changefreq><priority>0.78</priority></url></urlset>
