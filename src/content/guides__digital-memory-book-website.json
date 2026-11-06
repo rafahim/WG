@@ -1,0 +1,94 @@
+{
+  "html": "<a class=\"skip-link\" href=\"#main\">Skip to content</a>\n<header class=\"premium-nav site-header\" role=\"banner\">\n  <div class=\"premium-container premium-nav-inner container\">\n    <a aria-label=\"Wishly Guide home\" class=\"brand-lockup\" href=\"/\">\n      <span class=\"brand-mark\" aria-hidden=\"true\">✦</span>\n      <span><b>Wishly</b><small>CREATE MOMENTS</small></span>\n    </a>\n    <nav aria-label=\"Main navigation\" id=\"wishly-guide-navigation\" class=\"premium-nav-links nav-links\">\n      <a href=\"https://wishly.bd/templates/\" target=\"_blank\" rel=\"noopener noreferrer\">Templates</a><a href=\"https://wishly.bd/features/\" target=\"_blank\" rel=\"noopener noreferrer\">Features</a><a href=\"https://wishly.bd/custom-template/\" target=\"_blank\" rel=\"noopener noreferrer\">Custom template</a><a href=\"/guides/\" class=\"active\" aria-current=\"page\">Guides</a><a href=\"/topics/love-and-romance/\">Relationship ideas</a><a href=\"/about/\">About</a><a href=\"/authors/ra-fahim/\">Developer</a><a class=\"nav-mobile-link\" href=\"https://wishly.bd/\" target=\"_blank\" rel=\"noopener noreferrer\">Main Wishly ↗</a><a class=\"nav-mobile-link nav-mobile-primary\" href=\"https://wishly.bd/create/\" target=\"_blank\" rel=\"noopener noreferrer\">Create website →</a>\n    </nav>\n    <div class=\"premium-nav-actions nav-actions\">\n      <div class=\"nav-cta-wrap\"><a class=\"nav-cta\" href=\"https://wishly.bd/create/\" target=\"_blank\" rel=\"noopener noreferrer\">Create website <span aria-hidden=\"true\">→</span></a></div>\n      <div class=\"wp-wrap\">\n        <button type=\"button\" class=\"wp-trigger is-guest\" aria-expanded=\"false\" aria-controls=\"wishly-account-menu\" aria-label=\"Open account menu\" data-wg-account-toggle>\n          <span class=\"wp-av\" aria-hidden=\"true\">✦</span>\n          <span class=\"wp-label\">Account</span>\n          <svg class=\"wp-chev\" width=\"15\" height=\"15\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m6 9 6 6 6-6\"/></svg>\n        </button>\n        <button type=\"button\" class=\"wp-scrim\" aria-label=\"Close account menu\" data-wg-account-scrim hidden></button>\n        <div class=\"wp-menu\" id=\"wishly-account-menu\" data-wg-account-menu hidden>\n          <div class=\"wp-grab\" aria-hidden=\"true\"></div>\n          <div class=\"wp-head\">\n            <div class=\"wp-av\" aria-hidden=\"true\">✦</div>\n            <div><strong>Welcome to Wishly</strong><small>Make a personal website for a meaningful moment</small></div>\n            <button type=\"button\" class=\"wp-close\" aria-label=\"Close account menu\" data-wg-account-close>×</button>\n          </div>\n          <div class=\"wp-quick\">\n            <a class=\"wp-login\" href=\"https://wishly.bd/login/\" target=\"_blank\" rel=\"noopener noreferrer\">Log in</a>\n            <a class=\"nav-cta\" href=\"https://wishly.bd/signup/\" target=\"_blank\" rel=\"noopener noreferrer\">Sign up free <span aria-hidden=\"true\">→</span></a>\n          </div>\n          <div class=\"wp-explore\">\n            <div class=\"wp-group\">Explore Wishly</div>\n            <a class=\"wp-row\" href=\"https://wishly.bd/templates/\" target=\"_blank\" rel=\"noopener noreferrer\"><b>Templates</b><span class=\"wp-go\">↗</span></a>\n            <a class=\"wp-row\" href=\"https://wishly.bd/features/\" target=\"_blank\" rel=\"noopener noreferrer\"><b>Features</b><span class=\"wp-go\">↗</span></a>\n            <a class=\"wp-row\" href=\"/guides/\" ><b>Guides & tutorials</b><span class=\"wp-go\">›</span></a>\n            <a class=\"wp-row\" href=\"/guides/create-wish-website/\"><b>How to make a website</b><span class=\"wp-go\">›</span></a>\n            <a class=\"wp-row\" href=\"/authors/ra-fahim/\"><b>Meet the developer</b><span class=\"wp-go\">›</span></a>\n            <a class=\"wp-row\" href=\"https://wishly.bd/\" target=\"_blank\" rel=\"noopener noreferrer\"><b>Main Wishly website</b><span class=\"wp-go\">↗</span></a>\n          </div>\n          <div class=\"wp-rows\"><a class=\"wp-row\" href=\"/contact/\"><b>Contact</b><span class=\"wp-go\">›</span></a></div>\n        </div>\n      </div>\n      <a class=\"lang-link\" href=\"/bn/\" lang=\"bn\">বাংলা</a>\n      <button aria-expanded=\"false\" aria-label=\"Open navigation menu\" aria-controls=\"wishly-guide-navigation\" class=\"menu-toggle mobile-nav-toggle\" type=\"button\"><span></span><span></span><span></span></button>\n    </div>\n  </div>\n</header><main id=\"main\"><section class=\"page-hero\"><div class=\"container\"><div class=\"page-heading\"><div class=\"breadcrumbs\"><a href=\"/\">Home</a><span>›</span><a href=\"/guides/\">Guides</a><span>›</span><span>Digital memory book ideas</span></div><span class=\"eyebrow\">DIGITAL MEMORY BOOK IDEAS · WISHLY GUIDE</span><h1>How to Create a Digital Memory Book Website</h1><p>A digital memory book is more than a folder of pictures. It gives your photos a sequence, adds the context behind each moment and brings the story together in a format that is easy to revisit and share.</p></div></div></section><section class=\"page-body\"><div class=\"container article-layout\"><article class=\"article\"><p class=\"article-lead\">A digital memory book is more than a folder of pictures. It gives your photos a sequence, adds the context behind each moment and brings the story together in a format that is easy to revisit and share.</p><figure class=\"article-featured-image\"><img alt=\"A digital anniversary memory book website built around photographs and a personal story\" width=\"1200\" height=\"630\" src=\"/assets/editorial/digital-memory-book-website.webp\" loading=\"eager\" fetchpriority=\"high\"/><figcaption>A digital anniversary memory book website built around photographs and a personal story · Wishly Guide</figcaption></figure><div class=\"article-byline\"><span class=\"byline-mark\">✦</span><span><strong>Wishly Guide</strong><small>Practical product guides · <a href=\"/about/\">About this publication</a></small></span></div><div class=\"article-meta\"><span>Digital memory book ideas</span><span>5 min read</span><span>Updated 7 November 2026</span></div><h2 id=\"section-1\">Decide whose story the memory book will tell</h2><p>A memory book might celebrate a relationship, a friendship, a family milestone, a graduation or a journey with a team. Decide who will read it and what you want them to remember. That decision helps you choose the right photos and the level of detail to include.</p><p>Write a one-line theme before you begin: “The small moments that made this year special” or “A few chapters from our journey together.” A focused theme makes the page easier to organize.</p><h2 id=\"section-2\">Choose photos that tell a story</h2><p>Start with a manageable collection rather than uploading every image you own. Select photos that show a beginning, a change, a celebration and an everyday memory. A mix of wide scenes and close-up details can make the sequence feel varied.</p><p>Use captions to explain why a picture matters. Mention the place, the occasion or a small detail that someone might otherwise forget. If people are pictured, consider whether they are comfortable with the image being included and shared.</p><h2 id=\"section-3\">Organize the page into chapters</h2><p>Arrange the memories in chronological order or group them by theme. Possible chapters include “How it began,” “Everyday favourites,” “Places we remember” and “What comes next.” Give each section a short heading so visitors understand where they are in the story.</p><p>A short opening note and a final message can make the memory book feel complete. The opening introduces the theme; the closing says why you wanted to preserve these moments.</p><aside aria-label=\"Advertisements\" class=\"ad-slot\" data-ad-key=\"article-inline\"><span class=\"ad-label\">Advertisements</span><div class=\"ad-render\"></div></aside><h2 id=\"section-4\">Add personal touches without overwhelming the story</h2><p>If the selected Wishly template supports a gallery, video, audio or interactive reveal, choose only the features that add meaning. A short voice note can be powerful, but it should not compete with the photographs and captions. Keep the page quick to scan and easy to use.</p><p>Use a consistent colour palette and readable type. Check that text remains legible over any background image and that the page is comfortable to view on a phone.</p><h2 id=\"section-5\">Think about privacy and long-term access</h2><p>Before publishing, review the photos and captions for personal information. Avoid adding home addresses, private conversations or details that should not be accessible to anyone who receives the link. A shareable link should not be treated as a secure private vault unless the platform explicitly provides that protection.</p><p>Keep a separate copy of important original photos and writing. A digital page is a presentation, not a substitute for your own backup.</p><h2 id=\"section-6\">Publish, test and share the memory book</h2><p>Preview the page on the devices your readers are likely to use. Check the order of images, spelling, captions and links. Publish the page, open the live link yourself and send it with a short note explaining what the recipient will find.</p><p>For a surprise, choose the sharing moment carefully. You could send the link on an anniversary or invite the recipient to open it during a call. The thought behind the timing can matter as much as the page itself.</p><div class=\"article-callout\"><h3>Turn the idea into a Wishly website</h3><p>Explore the available templates, choose a design that fits your message and personalize the supported content in the visual editor.</p><p><a class=\"btn\" href=\"https://wishly.bd/templates/\" target=\"_blank\" rel=\"noopener noreferrer\">Browse Wishly templates ↗</a> &nbsp; <a class=\"btn btn-outline\" href=\"https://wishly.bd/create/\" target=\"_blank\" rel=\"noopener noreferrer\">Create your website ↗</a></p></div><h2 id=\"faq\">Frequently asked questions</h2><h3>How many photos should a digital memory book have?</h3><p>There is no fixed number. Choose enough images to tell the story without making the page repetitive. A small set of carefully captioned photos is often easier to enjoy than a very large gallery.</p><h3>Can I make a memory book website without coding?</h3><p>Yes. A visual website builder such as Wishly lets you start with a supported template and personalize its content without writing HTML or CSS.</p><h3>What is the difference between a digital memory book and a photo album?</h3><p>A digital memory book adds sequence, captions and context to the photos. It can feel like a small story rather than a collection of images.</p><p class=\"small-muted\">Wishly features, templates and editor controls may change. Check the current product interface and the selected template for the latest options. Avoid sharing personal information that should remain private.</p></article><aside class=\"article-toc\"><h3>In this guide</h3><nav><a href=\"#section-1\">Decide whose story the memory book will tell</a><a href=\"#section-2\">Choose photos that tell a story</a><a href=\"#section-3\">Organize the page into chapters</a><a href=\"#section-4\">Add personal touches without overwhelming the story</a><a href=\"#section-5\">Think about privacy and long-term access</a><a href=\"#section-6\">Publish, test and share the memory book</a><a href=\"#faq\">Frequently asked questions</a></nav><div class=\"toc-cta\"><a href=\"https://wishly.bd/create/\" target=\"_blank\" rel=\"noopener noreferrer\">Create with Wishly ↗</a></div></aside></div></section></main><section class=\"guide-to-wishly-cta\"><div class=\"guide-to-wishly-inner\"><div><p class=\"section-kicker\">MAKE THE IDEA YOURS</p><h2>Ready to create your own Wishly website?</h2><p>Choose a template, add your words and photos, then publish a personal page to share.</p></div><div class=\"guide-to-wishly-actions\"><a class=\"premium-button\" href=\"https://wishly.bd/create/\" target=\"_blank\" rel=\"noopener noreferrer\">Create your website →</a><a class=\"premium-button premium-button-ghost\" href=\"https://wishly.bd/templates/\" target=\"_blank\" rel=\"noopener noreferrer\">Browse templates ↗</a></div></div></section><footer class=\"site-footer hp-foot\">\n      <div class=\"premium-container\">\n        <div class=\"hp-foot-row footer-main-row\">\n          <div class=\"hp-foot-brand\">\n            <a aria-label=\"Wishly Guide home\" class=\"brand-lockup brand\" href=\"/\">\n              <span class=\"brand-mark\" aria-hidden=\"true\">✦</span><span class=\"brand-lockup-copy\"><b>Wishly</b><small>GUIDE · CREATE MOMENTS</small></span>\n            </a>\n            <p>Ideas, practical tutorials and clear answers for creating personal websites that make life’s special moments feel even more memorable.</p>\n            <a class=\"premium-button premium-button-ghost footer-main-cta\" href=\"https://wishly.bd/\" target=\"_blank\" rel=\"noopener noreferrer\">Main Wishly website ↗</a>\n          </div>\n          <div class=\"footer-link-group\"><h4>Explore</h4><a href=\"/guides/\">All guides</a><a href=\"/topics/love-and-romance/\">Love &amp; romance</a><a href=\"/topics/emotional-support/\">Emotional support</a><a href=\"/topics/communication-and-repair/\">Communication &amp; repair</a><a href=\"/topics/long-distance-relationships/\">Long-distance</a><a href=\"/topics/special-occasions/\">Special occasions</a><a href=\"/topics/friendship-and-gratitude/\">Friendship &amp; gratitude</a><a href=\"/features/\">Wishly features</a><a href=\"/authors/ra-fahim/\">RA Fahim · Developer</a><a href=\"/faq/\">Frequently asked</a><a href=\"/about/\">About Wishly</a><a href=\"/authors/ra-fahim/\">Meet the developer</a></div>\n          <div class=\"footer-link-group\"><h4>Wishly</h4><a href=\"https://wishly.bd/\" target=\"_blank\" rel=\"noopener noreferrer\">Main Wishly website ↗</a><a href=\"https://wishly.bd/templates/\" target=\"_blank\" rel=\"noopener noreferrer\">Browse templates ↗</a><a href=\"https://wishly.bd/create/\" target=\"_blank\" rel=\"noopener noreferrer\">Create a website ↗</a></div>\n        </div>\n        <div class=\"footer-bottom\"><span>© 2026 Wishly Guide. All rights reserved.</span><span>Part of the <a href=\"https://wishly.bd/\" target=\"_blank\" rel=\"noopener noreferrer\">Wishly</a> experience.</span></div>\n        <div class=\"container footer-legal-links\"><a href=\"/privacy/\">Privacy</a><a href=\"/terms/\">Terms</a><a href=\"/editorial-policy/\">Editorial policy</a><a href=\"/contact/\">Contact</a></div>\n      </div>\n    </footer>",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Article",
+        "@id": "https://guide.wishly.bd/guides/digital-memory-book-website/#article",
+        "headline": "How to Create a Digital Memory Book Website",
+        "description": "A digital memory book is more than a folder of pictures. It gives your photos a sequence, adds the context behind each moment and brings the story together in a format that is easy to revisit and share.",
+        "image": [
+          "https://guide.wishly.bd/assets/editorial/digital-memory-book-website.webp"
+        ],
+        "datePublished": "2026-11-07",
+        "dateModified": "2026-11-07",
+        "author": {
+          "@type": "Organization",
+          "@id": "https://guide.wishly.bd/about/#publisher",
+          "name": "Wishly Guide",
+          "url": "https://guide.wishly.bd/about/"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "@id": "https://wishly.bd/#org",
+          "name": "Wishly",
+          "url": "https://wishly.bd",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://wishly.bd/icon-512.webp"
+          }
+        },
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://guide.wishly.bd/guides/digital-memory-book-website/"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://guide.wishly.bd/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Guides",
+            "item": "https://guide.wishly.bd/guides/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "How to Create a Digital Memory Book Website",
+            "item": "https://guide.wishly.bd/guides/digital-memory-book-website/"
+          }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "How many photos should a digital memory book have?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "There is no fixed number. Choose enough images to tell the story without making the page repetitive. A small set of carefully captioned photos is often easier to enjoy than a very large gallery."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I make a memory book website without coding?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. A visual website builder such as Wishly lets you start with a supported template and personalize its content without writing HTML or CSS."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is the difference between a digital memory book and a photo album?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A digital memory book adds sequence, captions and context to the photos. It can feel like a small story rather than a collection of images."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "lang": "en",
+  "source": "Original Wishly Guide editorial content"
+}

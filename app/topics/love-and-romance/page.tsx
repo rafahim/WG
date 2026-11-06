@@ -1,0 +1,5 @@
+import type { Metadata } from "next";
+import HtmlPage from "@/components/HtmlPage";
+import pageData from "@/content/topics__love-and-romance.json";
+export const metadata: Metadata = { title: "Love & Romance | Wishly Guide", description: "Ideas for expressing affection, planning thoughtful dates, asking important questions and making your partner feel appreciated.", alternates: { canonical: "/topics/love-and-romance/" }, openGraph: { type: "website", title: "Love & Romance | Wishly Guide", description: "Ideas for expressing affection, planning thoughtful dates, asking important questions and making your partner feel appreciated.", url: "/topics/love-and-romance/", siteName: "Wishly Guide", images: ["https://guide.wishly.bd/assets/og-wishly-guide.png"] }, robots: { index: true, follow: true } };
+export default function Page() { return <HtmlPage html={pageData.html} jsonLd={pageData.jsonLd} lang={pageData.lang} />; }

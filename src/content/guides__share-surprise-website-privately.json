@@ -1,0 +1,94 @@
+{
+  "html": "<a class=\"skip-link\" href=\"#main\">Skip to content</a>\n<header class=\"premium-nav site-header\" role=\"banner\">\n  <div class=\"premium-container premium-nav-inner container\">\n    <a aria-label=\"Wishly Guide home\" class=\"brand-lockup\" href=\"/\">\n      <span class=\"brand-mark\" aria-hidden=\"true\">✦</span>\n      <span><b>Wishly</b><small>CREATE MOMENTS</small></span>\n    </a>\n    <nav aria-label=\"Main navigation\" id=\"wishly-guide-navigation\" class=\"premium-nav-links nav-links\">\n      <a href=\"https://wishly.bd/templates/\" target=\"_blank\" rel=\"noopener noreferrer\">Templates</a><a href=\"https://wishly.bd/features/\" target=\"_blank\" rel=\"noopener noreferrer\">Features</a><a href=\"https://wishly.bd/custom-template/\" target=\"_blank\" rel=\"noopener noreferrer\">Custom template</a><a href=\"/guides/\" class=\"active\" aria-current=\"page\">Guides</a><a href=\"/topics/love-and-romance/\">Relationship ideas</a><a href=\"/about/\">About</a><a href=\"/authors/ra-fahim/\">Developer</a><a class=\"nav-mobile-link\" href=\"https://wishly.bd/\" target=\"_blank\" rel=\"noopener noreferrer\">Main Wishly ↗</a><a class=\"nav-mobile-link nav-mobile-primary\" href=\"https://wishly.bd/create/\" target=\"_blank\" rel=\"noopener noreferrer\">Create website →</a>\n    </nav>\n    <div class=\"premium-nav-actions nav-actions\">\n      <div class=\"nav-cta-wrap\"><a class=\"nav-cta\" href=\"https://wishly.bd/create/\" target=\"_blank\" rel=\"noopener noreferrer\">Create website <span aria-hidden=\"true\">→</span></a></div>\n      <div class=\"wp-wrap\">\n        <button type=\"button\" class=\"wp-trigger is-guest\" aria-expanded=\"false\" aria-controls=\"wishly-account-menu\" aria-label=\"Open account menu\" data-wg-account-toggle>\n          <span class=\"wp-av\" aria-hidden=\"true\">✦</span>\n          <span class=\"wp-label\">Account</span>\n          <svg class=\"wp-chev\" width=\"15\" height=\"15\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m6 9 6 6 6-6\"/></svg>\n        </button>\n        <button type=\"button\" class=\"wp-scrim\" aria-label=\"Close account menu\" data-wg-account-scrim hidden></button>\n        <div class=\"wp-menu\" id=\"wishly-account-menu\" data-wg-account-menu hidden>\n          <div class=\"wp-grab\" aria-hidden=\"true\"></div>\n          <div class=\"wp-head\">\n            <div class=\"wp-av\" aria-hidden=\"true\">✦</div>\n            <div><strong>Welcome to Wishly</strong><small>Make a personal website for a meaningful moment</small></div>\n            <button type=\"button\" class=\"wp-close\" aria-label=\"Close account menu\" data-wg-account-close>×</button>\n          </div>\n          <div class=\"wp-quick\">\n            <a class=\"wp-login\" href=\"https://wishly.bd/login/\" target=\"_blank\" rel=\"noopener noreferrer\">Log in</a>\n            <a class=\"nav-cta\" href=\"https://wishly.bd/signup/\" target=\"_blank\" rel=\"noopener noreferrer\">Sign up free <span aria-hidden=\"true\">→</span></a>\n          </div>\n          <div class=\"wp-explore\">\n            <div class=\"wp-group\">Explore Wishly</div>\n            <a class=\"wp-row\" href=\"https://wishly.bd/templates/\" target=\"_blank\" rel=\"noopener noreferrer\"><b>Templates</b><span class=\"wp-go\">↗</span></a>\n            <a class=\"wp-row\" href=\"https://wishly.bd/features/\" target=\"_blank\" rel=\"noopener noreferrer\"><b>Features</b><span class=\"wp-go\">↗</span></a>\n            <a class=\"wp-row\" href=\"/guides/\" ><b>Guides & tutorials</b><span class=\"wp-go\">›</span></a>\n            <a class=\"wp-row\" href=\"/guides/create-wish-website/\"><b>How to make a website</b><span class=\"wp-go\">›</span></a>\n            <a class=\"wp-row\" href=\"/authors/ra-fahim/\"><b>Meet the developer</b><span class=\"wp-go\">›</span></a>\n            <a class=\"wp-row\" href=\"https://wishly.bd/\" target=\"_blank\" rel=\"noopener noreferrer\"><b>Main Wishly website</b><span class=\"wp-go\">↗</span></a>\n          </div>\n          <div class=\"wp-rows\"><a class=\"wp-row\" href=\"/contact/\"><b>Contact</b><span class=\"wp-go\">›</span></a></div>\n        </div>\n      </div>\n      <a class=\"lang-link\" href=\"/bn/\" lang=\"bn\">বাংলা</a>\n      <button aria-expanded=\"false\" aria-label=\"Open navigation menu\" aria-controls=\"wishly-guide-navigation\" class=\"menu-toggle mobile-nav-toggle\" type=\"button\"><span></span><span></span><span></span></button>\n    </div>\n  </div>\n</header><main id=\"main\"><section class=\"page-hero\"><div class=\"container\"><div class=\"page-heading\"><div class=\"breadcrumbs\"><a href=\"/\">Home</a><span>›</span><a href=\"/guides/\">Guides</a><span>›</span><span>Website sharing & privacy</span></div><span class=\"eyebrow\">WEBSITE SHARING & PRIVACY · WISHLY GUIDE</span><h1>How to Share a Surprise Website Privately and Thoughtfully</h1><p>A personal surprise website can contain names, photos, messages and memories. Before you send the link, take a moment to decide who should see it, what information belongs on the page and how the recipient can open it comfortably.</p></div></div></section><section class=\"page-body\"><div class=\"container article-layout\"><article class=\"article\"><p class=\"article-lead\">A personal surprise website can contain names, photos, messages and memories. Before you send the link, take a moment to decide who should see it, what information belongs on the page and how the recipient can open it comfortably.</p><figure class=\"article-featured-image\"><img alt=\"A guide to checking a personal surprise website link before sharing it\" width=\"1200\" height=\"630\" src=\"/assets/editorial/private-surprise-website-sharing.webp\" loading=\"eager\" fetchpriority=\"high\"/><figcaption>A guide to checking a personal surprise website link before sharing it · Wishly Guide</figcaption></figure><div class=\"article-byline\"><span class=\"byline-mark\">✦</span><span><strong>Wishly Guide</strong><small>Practical product guides · <a href=\"/about/\">About this publication</a></small></span></div><div class=\"article-meta\"><span>Website sharing & privacy</span><span>5 min read</span><span>Updated 7 November 2026</span></div><h2 id=\"section-1\">Understand what a shareable link means</h2><p>A link is convenient, but it is not automatically a password or privacy boundary. Depending on the platform and its settings, anyone who receives or is forwarded the URL may be able to open the page. Do not describe a page as private or password-protected unless the product explicitly provides that protection and you have enabled it.</p><p>Choose the audience before you publish. A surprise for one person usually does not need to be posted publicly on social media.</p><h2 id=\"section-2\">Remove information that should not travel with the link</h2><p>Review every section for home addresses, phone numbers, personal email addresses, account details, private screenshots or other sensitive information. A message intended for one person can be forwarded, copied or viewed on a shared device.</p><p>Use first names or nicknames where appropriate. If the page includes a location or event detail, share only what the recipient needs to know.</p><h2 id=\"section-3\">Ask before using other people’s photos</h2><p>Use photos that the people pictured would be comfortable seeing on the page. Be especially careful with children, private gatherings and images that could embarrass someone if the link travelled beyond the intended audience. A meaningful surprise should not come at the expense of someone else’s comfort.</p><p>If you are unsure, choose another image or ask first. You can still make a warm page with a written memory, illustration or photo of a place.</p><aside aria-label=\"Advertisements\" class=\"ad-slot\" data-ad-key=\"article-inline\"><span class=\"ad-label\">Advertisements</span><div class=\"ad-render\"></div></aside><h2 id=\"section-4\">Test the page and the preview before sending</h2><p>Open the published link in a private browser window and test it on a phone. Check the title, preview image, spelling, media playback and external links. If you use the link in a chat app, see how the preview appears before sending it to the recipient.</p><p>Do not assume a preview image is the same as the full page. Check both, and make sure the image itself does not reveal information you did not intend to share.</p><h2 id=\"section-5\">Choose a considerate way to send the surprise</h2><p>Send the link through a channel the recipient normally uses. Add a simple note so they know it is safe to open and whether they need sound or headphones. Avoid repeatedly messaging someone to open a surprise if they are busy or have not responded.</p><p>If the page is meant for a group, make the audience clear and avoid tagging people in a public post without asking.</p><h2 id=\"section-6\">A privacy check before publishing</h2><ul><li>Confirm who should receive the link.</li><li>Remove sensitive contact and location details.</li><li>Use photos with permission or clear comfort from the people shown.</li><li>Do not assume a link is password-protected.</li><li>Test the public page and social preview.</li><li>Share through a suitable channel and respect the recipient’s choice to open it later.</li></ul><div class=\"article-callout\"><h3>Turn the idea into a Wishly website</h3><p>Explore the available templates, choose a design that fits your message and personalize the supported content in the visual editor.</p><p><a class=\"btn\" href=\"https://wishly.bd/templates/\" target=\"_blank\" rel=\"noopener noreferrer\">Browse Wishly templates ↗</a> &nbsp; <a class=\"btn btn-outline\" href=\"https://wishly.bd/create/\" target=\"_blank\" rel=\"noopener noreferrer\">Create your website ↗</a></p></div><h2 id=\"faq\">Frequently asked questions</h2><h3>Is a website link private if I only send it to one person?</h3><p>Not necessarily. A link may be forwarded or opened by others who obtain it. Do not include sensitive information unless the platform offers an appropriate protection and you have verified it.</p><h3>Can I put personal photos on a surprise website?</h3><p>Use photos that you have the right to share and that the people pictured would be comfortable with. Avoid sensitive or embarrassing images.</p><h3>Should I post a surprise website on social media?</h3><p>Only if the intended audience and people shown are comfortable with public sharing. For a personal surprise, sending the link directly is often more considerate.</p><p class=\"small-muted\">Wishly features, templates and editor controls may change. Check the current product interface and the selected template for the latest options. Avoid sharing personal information that should remain private.</p></article><aside class=\"article-toc\"><h3>In this guide</h3><nav><a href=\"#section-1\">Understand what a shareable link means</a><a href=\"#section-2\">Remove information that should not travel with the link</a><a href=\"#section-3\">Ask before using other people’s photos</a><a href=\"#section-4\">Test the page and the preview before sending</a><a href=\"#section-5\">Choose a considerate way to send the surprise</a><a href=\"#section-6\">A privacy check before publishing</a><a href=\"#faq\">Frequently asked questions</a></nav><div class=\"toc-cta\"><a href=\"https://wishly.bd/create/\" target=\"_blank\" rel=\"noopener noreferrer\">Create with Wishly ↗</a></div></aside></div></section></main><section class=\"guide-to-wishly-cta\"><div class=\"guide-to-wishly-inner\"><div><p class=\"section-kicker\">MAKE THE IDEA YOURS</p><h2>Ready to create your own Wishly website?</h2><p>Choose a template, add your words and photos, then publish a personal page to share.</p></div><div class=\"guide-to-wishly-actions\"><a class=\"premium-button\" href=\"https://wishly.bd/create/\" target=\"_blank\" rel=\"noopener noreferrer\">Create your website →</a><a class=\"premium-button premium-button-ghost\" href=\"https://wishly.bd/templates/\" target=\"_blank\" rel=\"noopener noreferrer\">Browse templates ↗</a></div></div></section><footer class=\"site-footer hp-foot\">\n      <div class=\"premium-container\">\n        <div class=\"hp-foot-row footer-main-row\">\n          <div class=\"hp-foot-brand\">\n            <a aria-label=\"Wishly Guide home\" class=\"brand-lockup brand\" href=\"/\">\n              <span class=\"brand-mark\" aria-hidden=\"true\">✦</span><span class=\"brand-lockup-copy\"><b>Wishly</b><small>GUIDE · CREATE MOMENTS</small></span>\n            </a>\n            <p>Ideas, practical tutorials and clear answers for creating personal websites that make life’s special moments feel even more memorable.</p>\n            <a class=\"premium-button premium-button-ghost footer-main-cta\" href=\"https://wishly.bd/\" target=\"_blank\" rel=\"noopener noreferrer\">Main Wishly website ↗</a>\n          </div>\n          <div class=\"footer-link-group\"><h4>Explore</h4><a href=\"/guides/\">All guides</a><a href=\"/topics/love-and-romance/\">Love &amp; romance</a><a href=\"/topics/emotional-support/\">Emotional support</a><a href=\"/topics/communication-and-repair/\">Communication &amp; repair</a><a href=\"/topics/long-distance-relationships/\">Long-distance</a><a href=\"/topics/special-occasions/\">Special occasions</a><a href=\"/topics/friendship-and-gratitude/\">Friendship &amp; gratitude</a><a href=\"/features/\">Wishly features</a><a href=\"/authors/ra-fahim/\">RA Fahim · Developer</a><a href=\"/faq/\">Frequently asked</a><a href=\"/about/\">About Wishly</a><a href=\"/authors/ra-fahim/\">Meet the developer</a></div>\n          <div class=\"footer-link-group\"><h4>Wishly</h4><a href=\"https://wishly.bd/\" target=\"_blank\" rel=\"noopener noreferrer\">Main Wishly website ↗</a><a href=\"https://wishly.bd/templates/\" target=\"_blank\" rel=\"noopener noreferrer\">Browse templates ↗</a><a href=\"https://wishly.bd/create/\" target=\"_blank\" rel=\"noopener noreferrer\">Create a website ↗</a></div>\n        </div>\n        <div class=\"footer-bottom\"><span>© 2026 Wishly Guide. All rights reserved.</span><span>Part of the <a href=\"https://wishly.bd/\" target=\"_blank\" rel=\"noopener noreferrer\">Wishly</a> experience.</span></div>\n        <div class=\"container footer-legal-links\"><a href=\"/privacy/\">Privacy</a><a href=\"/terms/\">Terms</a><a href=\"/editorial-policy/\">Editorial policy</a><a href=\"/contact/\">Contact</a></div>\n      </div>\n    </footer>",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Article",
+        "@id": "https://guide.wishly.bd/guides/share-surprise-website-privately/#article",
+        "headline": "How to Share a Surprise Website Privately and Thoughtfully",
+        "description": "A personal surprise website can contain names, photos, messages and memories. Before you send the link, take a moment to decide who should see it, what information belongs on the page and how the recipient can open it comfortably.",
+        "image": [
+          "https://guide.wishly.bd/assets/editorial/private-surprise-website-sharing.webp"
+        ],
+        "datePublished": "2026-11-07",
+        "dateModified": "2026-11-07",
+        "author": {
+          "@type": "Organization",
+          "@id": "https://guide.wishly.bd/about/#publisher",
+          "name": "Wishly Guide",
+          "url": "https://guide.wishly.bd/about/"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "@id": "https://wishly.bd/#org",
+          "name": "Wishly",
+          "url": "https://wishly.bd",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://wishly.bd/icon-512.webp"
+          }
+        },
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://guide.wishly.bd/guides/share-surprise-website-privately/"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://guide.wishly.bd/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Guides",
+            "item": "https://guide.wishly.bd/guides/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "How to Share a Surprise Website Privately and Thoughtfully",
+            "item": "https://guide.wishly.bd/guides/share-surprise-website-privately/"
+          }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Is a website link private if I only send it to one person?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Not necessarily. A link may be forwarded or opened by others who obtain it. Do not include sensitive information unless the platform offers an appropriate protection and you have verified it."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I put personal photos on a surprise website?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Use photos that you have the right to share and that the people pictured would be comfortable with. Avoid sensitive or embarrassing images."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Should I post a surprise website on social media?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Only if the intended audience and people shown are comfortable with public sharing. For a personal surprise, sending the link directly is often more considerate."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "lang": "en",
+  "source": "Original Wishly Guide editorial content"
+}

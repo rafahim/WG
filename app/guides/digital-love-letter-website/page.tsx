@@ -3,7 +3,7 @@ import HtmlPage from "@/components/HtmlPage";
 import pageData from "@/content/guides__digital-love-letter-website.json";
 
 export const metadata: Metadata = {
-  title: "Digital Love Letter Website Guide | Wishly Guide",
+  title: "Create a Digital Love Letter Website",
   description: "Learn how to turn a heartfelt letter into a personal online experience with a clear opening, meaningful details, photographs and a thoughtful ending.",
   alternates: {
     canonical: "/guides/digital-love-letter-website/",
@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   robots: { index: true, follow: true, googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1, "max-video-preview": -1 } },
   openGraph: {
     type: "article",
-    title: "Digital Love Letter Website Guide | Wishly Guide",
+    title: "Create a Digital Love Letter Website",
     description: "Learn how to turn a heartfelt letter into a personal online experience with a clear opening, meaningful details, photographs and a thoughtful ending.",
     url: "/guides/digital-love-letter-website/",
     siteName: "Wishly Guide",
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Digital Love Letter Website Guide | Wishly Guide",
+    title: "Create a Digital Love Letter Website",
     description: "Learn how to turn a heartfelt letter into a personal online experience with a clear opening, meaningful details, photographs and a thoughtful ending.",
     images: ["https://guide.wishly.bd/assets/og-wishly-guide.png"]
   }

@@ -3,8 +3,9 @@ import HtmlPage from "@/components/HtmlPage";
 import pageData from "@/content/home.json";
 
 export const metadata: Metadata = {
-  title: "Wishly Guide | Personal Website Ideas & How-to Guides",
-  description: "Find birthday website ideas, proposal and anniversary inspiration, wedding invitation tips and personal message guides. Create and share a page with Wishly.",
+  title: "Wishly Guide: Relationship Ideas & Personal Websites",
+  description: "Find thoughtful relationship advice, emotional support, romantic ideas and step-by-step guides for creating personal websites with Wishly.",
+  keywords: ["relationship advice", "romantic ideas", "love letter", "proposal ideas", "emotional support", "birthday surprise website", "anniversary website", "Wishly"],
   alternates: {
     canonical: "/",
     languages: {
@@ -16,8 +17,8 @@ export const metadata: Metadata = {
   robots: { index: true, follow: true, googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1, "max-video-preview": -1 } },
   openGraph: {
     type: "website",
-    title: "Wishly Guide | Personal Website Ideas & How-to Guides",
-    description: "Find birthday website ideas, proposal and anniversary inspiration, wedding invitation tips and personal message guides. Create and share a page with Wishly.",
+    title: "Wishly Guide: Relationship Ideas & Personal Websites",
+    description: "Find relationship advice, romantic ideas, emotional support, love letters and guides for creating personal websites with Wishly.",
     url: "/",
     siteName: "Wishly Guide",
     locale: "en_US",
@@ -26,8 +27,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Wishly Guide | Personal Website Ideas & How-to Guides",
-    description: "Find birthday website ideas, proposal and anniversary inspiration, wedding invitation tips and personal message guides. Create and share a page with Wishly.",
+    title: "Wishly Guide: Relationship Ideas & Personal Websites",
+    description: "Find relationship advice, romantic ideas, emotional support, love letters and guides for creating personal websites with Wishly.",
     images: ["https://guide.wishly.bd/assets/og-wishly-guide.png"]
   }
 };

@@ -3,7 +3,7 @@ import HtmlPage from "@/components/HtmlPage";
 import pageData from "@/content/guides__share-wish-website-link.json";
 
 export const metadata: Metadata = {
-  title: "How to Share a Website Link with a Custom Preview | Wishly Guide",
+  title: "How to Share a Website Link | Wishly Guide",
   description: "Learn how Wishly link previews work and how to add a custom preview title, description and photo before sharing your published website.",
   alternates: {
     canonical: "/guides/share-wish-website-link/",
@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   robots: { index: true, follow: true, googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1, "max-video-preview": -1 } },
   openGraph: {
     type: "article",
-    title: "How to Share a Website Link with a Custom Preview | Wishly Guide",
+    title: "How to Share a Website Link | Wishly Guide",
     description: "Learn how Wishly link previews work and how to add a custom preview title, description and photo before sharing your published website.",
     url: "/guides/share-wish-website-link/",
     siteName: "Wishly Guide",
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "How to Share a Website Link with a Custom Preview | Wishly Guide",
+    title: "How to Share a Website Link | Wishly Guide",
     description: "Learn how Wishly link previews work and how to add a custom preview title, description and photo before sharing your published website.",
     images: ["https://guide.wishly.bd/assets/og-wishly-guide.png"]
   }

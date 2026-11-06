@@ -3,7 +3,7 @@ import HtmlPage from "@/components/HtmlPage";
 import pageData from "@/content/guides__birthday-website-message-ideas.json";
 
 export const metadata: Metadata = {
-  title: "Birthday Website Message Ideas & Examples | Wishly Guide",
+  title: "Birthday Website Message Ideas | Wishly",
   description: "Write a memorable birthday website message with a natural opening, a specific memory, thoughtful photo captions and a warm closing.",
   alternates: {
     canonical: "/guides/birthday-website-message-ideas/",
@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   robots: { index: true, follow: true, googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1, "max-video-preview": -1 } },
   openGraph: {
     type: "article",
-    title: "Birthday Website Message Ideas & Examples | Wishly Guide",
+    title: "Birthday Website Message Ideas | Wishly",
     description: "Write a memorable birthday website message with a natural opening, a specific memory, thoughtful photo captions and a warm closing.",
     url: "/guides/birthday-website-message-ideas/",
     siteName: "Wishly Guide",
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Birthday Website Message Ideas & Examples | Wishly Guide",
+    title: "Birthday Website Message Ideas | Wishly",
     description: "Write a memorable birthday website message with a natural opening, a specific memory, thoughtful photo captions and a warm closing.",
     images: ["https://guide.wishly.bd/assets/og-wishly-guide.png"]
   }

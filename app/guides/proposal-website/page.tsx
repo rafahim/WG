@@ -3,7 +3,7 @@ import HtmlPage from "@/components/HtmlPage";
 import pageData from "@/content/guides__proposal-website.json";
 
 export const metadata: Metadata = {
-  title: "How to Make a Proposal Website Online: Ideas & Steps | Wishly Guide",
+  title: "How to Make a Proposal Website | Wishly Guide",
   description: "Plan a romantic proposal website with a thoughtful story, meaningful photos, a clear final question and a respectful way to share it.",
   alternates: {
     canonical: "/guides/proposal-website/",
@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   robots: { index: true, follow: true, googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1, "max-video-preview": -1 } },
   openGraph: {
     type: "article",
-    title: "How to Make a Proposal Website Online: Ideas & Steps | Wishly Guide",
+    title: "How to Make a Proposal Website | Wishly Guide",
     description: "Plan a romantic proposal website with a thoughtful story, meaningful photos, a clear final question and a respectful way to share it.",
     url: "/guides/proposal-website/",
     siteName: "Wishly Guide",
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "How to Make a Proposal Website Online: Ideas & Steps | Wishly Guide",
+    title: "How to Make a Proposal Website | Wishly Guide",
     description: "Plan a romantic proposal website with a thoughtful story, meaningful photos, a clear final question and a respectful way to share it.",
     images: ["https://guide.wishly.bd/assets/og-wishly-guide.png"]
   }

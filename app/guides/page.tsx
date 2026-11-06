@@ -3,8 +3,9 @@ import HtmlPage from "@/components/HtmlPage";
 import pageData from "@/content/guides.json";
 
 export const metadata: Metadata = {
-  title: "Personal Website Guides & Ideas | Wishly Guide",
-  description: "Explore step-by-step guides for birthday websites, proposals, anniversaries, wedding invitations, friendship pages and no-code personal websites.",
+  title: "Relationship & Love Guides | Wishly Guide",
+  description: "Practical relationship advice, emotional support, love letters, proposal ideas, birthday surprises and tutorials for creating personal websites.",
+  keywords: ["relationship advice", "romantic ideas", "love letter", "proposal ideas", "emotional support", "birthday surprise website", "anniversary website", "Wishly"],
   alternates: {
     canonical: "/guides/",
     languages: {
@@ -16,8 +17,8 @@ export const metadata: Metadata = {
   robots: { index: true, follow: true, googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1, "max-video-preview": -1 } },
   openGraph: {
     type: "website",
-    title: "Personal Website Guides & Ideas | Wishly Guide",
-    description: "Explore step-by-step guides for birthday websites, proposals, anniversaries, wedding invitations, friendship pages and no-code personal websites.",
+    title: "Relationship, Love & Website Guides | Wishly",
+    description: "Explore helpful guides about proposals, relationship communication, emotional support, love letters, birthdays, anniversaries and personal Wishly websites.",
     url: "/guides/",
     siteName: "Wishly Guide",
     locale: "en_US",
@@ -26,8 +27,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Personal Website Guides & Ideas | Wishly Guide",
-    description: "Explore step-by-step guides for birthday websites, proposals, anniversaries, wedding invitations, friendship pages and no-code personal websites.",
+    title: "Relationship, Love & Website Guides | Wishly",
+    description: "Explore helpful guides about proposals, relationship communication, emotional support, love letters, birthdays, anniversaries and personal Wishly websites.",
     images: ["https://guide.wishly.bd/assets/og-wishly-guide.png"]
   }
 };

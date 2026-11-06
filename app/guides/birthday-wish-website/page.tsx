@@ -3,7 +3,7 @@ import HtmlPage from "@/components/HtmlPage";
 import pageData from "@/content/guides__birthday-wish-website.json";
 
 export const metadata: Metadata = {
-  title: "Birthday Website Ideas for a Personal Surprise | Wishly Guide",
+  title: "Birthday Wish Website Ideas | Wishly Guide",
   description: "Discover birthday website ideas for a personal online surprise, including a memorable opening, meaningful message, photos, music and a shareable link.",
   alternates: {
     canonical: "/guides/birthday-wish-website/",
@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   robots: { index: true, follow: true, googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1, "max-video-preview": -1 } },
   openGraph: {
     type: "article",
-    title: "Birthday Website Ideas for a Personal Surprise | Wishly Guide",
+    title: "Birthday Wish Website Ideas | Wishly Guide",
     description: "Discover birthday website ideas for a personal online surprise, including a memorable opening, meaningful message, photos, music and a shareable link.",
     url: "/guides/birthday-wish-website/",
     siteName: "Wishly Guide",
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Birthday Website Ideas for a Personal Surprise | Wishly Guide",
+    title: "Birthday Wish Website Ideas | Wishly Guide",
     description: "Discover birthday website ideas for a personal online surprise, including a memorable opening, meaningful message, photos, music and a shareable link.",
     images: ["https://guide.wishly.bd/assets/og-wishly-guide.png"]
   }

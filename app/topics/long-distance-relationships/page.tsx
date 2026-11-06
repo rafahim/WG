@@ -1,0 +1,5 @@
+import type { Metadata } from "next";
+import HtmlPage from "@/components/HtmlPage";
+import pageData from "@/content/topics__long-distance-relationships.json";
+export const metadata: Metadata = { title: "Long-Distance Relationships | Wishly Guide", description: "Thoughtful ways to stay connected across time zones through shared rituals, virtual dates, letters and personal surprises.", alternates: { canonical: "/topics/long-distance-relationships/" }, openGraph: { type: "website", title: "Long-Distance Relationships | Wishly Guide", description: "Thoughtful ways to stay connected across time zones through shared rituals, virtual dates, letters and personal surprises.", url: "/topics/long-distance-relationships/", siteName: "Wishly Guide", images: ["https://guide.wishly.bd/assets/og-wishly-guide.png"] }, robots: { index: true, follow: true } };
+export default function Page() { return <HtmlPage html={pageData.html} jsonLd={pageData.jsonLd} lang={pageData.lang} />; }

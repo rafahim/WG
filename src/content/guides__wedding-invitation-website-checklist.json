@@ -1,0 +1,94 @@
+{
+  "html": "<a class=\"skip-link\" href=\"#main\">Skip to content</a>\n<header class=\"premium-nav site-header\" role=\"banner\">\n  <div class=\"premium-container premium-nav-inner container\">\n    <a aria-label=\"Wishly Guide home\" class=\"brand-lockup\" href=\"/\">\n      <span class=\"brand-mark\" aria-hidden=\"true\">✦</span>\n      <span><b>Wishly</b><small>CREATE MOMENTS</small></span>\n    </a>\n    <nav aria-label=\"Main navigation\" id=\"wishly-guide-navigation\" class=\"premium-nav-links nav-links\">\n      <a href=\"https://wishly.bd/templates/\" target=\"_blank\" rel=\"noopener noreferrer\">Templates</a><a href=\"https://wishly.bd/features/\" target=\"_blank\" rel=\"noopener noreferrer\">Features</a><a href=\"https://wishly.bd/custom-template/\" target=\"_blank\" rel=\"noopener noreferrer\">Custom template</a><a href=\"/guides/\" class=\"active\" aria-current=\"page\">Guides</a><a href=\"/topics/love-and-romance/\">Relationship ideas</a><a href=\"/about/\">About</a><a href=\"/authors/ra-fahim/\">Developer</a><a class=\"nav-mobile-link\" href=\"https://wishly.bd/\" target=\"_blank\" rel=\"noopener noreferrer\">Main Wishly ↗</a><a class=\"nav-mobile-link nav-mobile-primary\" href=\"https://wishly.bd/create/\" target=\"_blank\" rel=\"noopener noreferrer\">Create website →</a>\n    </nav>\n    <div class=\"premium-nav-actions nav-actions\">\n      <div class=\"nav-cta-wrap\"><a class=\"nav-cta\" href=\"https://wishly.bd/create/\" target=\"_blank\" rel=\"noopener noreferrer\">Create website <span aria-hidden=\"true\">→</span></a></div>\n      <div class=\"wp-wrap\">\n        <button type=\"button\" class=\"wp-trigger is-guest\" aria-expanded=\"false\" aria-controls=\"wishly-account-menu\" aria-label=\"Open account menu\" data-wg-account-toggle>\n          <span class=\"wp-av\" aria-hidden=\"true\">✦</span>\n          <span class=\"wp-label\">Account</span>\n          <svg class=\"wp-chev\" width=\"15\" height=\"15\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m6 9 6 6 6-6\"/></svg>\n        </button>\n        <button type=\"button\" class=\"wp-scrim\" aria-label=\"Close account menu\" data-wg-account-scrim hidden></button>\n        <div class=\"wp-menu\" id=\"wishly-account-menu\" data-wg-account-menu hidden>\n          <div class=\"wp-grab\" aria-hidden=\"true\"></div>\n          <div class=\"wp-head\">\n            <div class=\"wp-av\" aria-hidden=\"true\">✦</div>\n            <div><strong>Welcome to Wishly</strong><small>Make a personal website for a meaningful moment</small></div>\n            <button type=\"button\" class=\"wp-close\" aria-label=\"Close account menu\" data-wg-account-close>×</button>\n          </div>\n          <div class=\"wp-quick\">\n            <a class=\"wp-login\" href=\"https://wishly.bd/login/\" target=\"_blank\" rel=\"noopener noreferrer\">Log in</a>\n            <a class=\"nav-cta\" href=\"https://wishly.bd/signup/\" target=\"_blank\" rel=\"noopener noreferrer\">Sign up free <span aria-hidden=\"true\">→</span></a>\n          </div>\n          <div class=\"wp-explore\">\n            <div class=\"wp-group\">Explore Wishly</div>\n            <a class=\"wp-row\" href=\"https://wishly.bd/templates/\" target=\"_blank\" rel=\"noopener noreferrer\"><b>Templates</b><span class=\"wp-go\">↗</span></a>\n            <a class=\"wp-row\" href=\"https://wishly.bd/features/\" target=\"_blank\" rel=\"noopener noreferrer\"><b>Features</b><span class=\"wp-go\">↗</span></a>\n            <a class=\"wp-row\" href=\"/guides/\" ><b>Guides & tutorials</b><span class=\"wp-go\">›</span></a>\n            <a class=\"wp-row\" href=\"/guides/create-wish-website/\"><b>How to make a website</b><span class=\"wp-go\">›</span></a>\n            <a class=\"wp-row\" href=\"/authors/ra-fahim/\"><b>Meet the developer</b><span class=\"wp-go\">›</span></a>\n            <a class=\"wp-row\" href=\"https://wishly.bd/\" target=\"_blank\" rel=\"noopener noreferrer\"><b>Main Wishly website</b><span class=\"wp-go\">↗</span></a>\n          </div>\n          <div class=\"wp-rows\"><a class=\"wp-row\" href=\"/contact/\"><b>Contact</b><span class=\"wp-go\">›</span></a></div>\n        </div>\n      </div>\n      <a class=\"lang-link\" href=\"/bn/\" lang=\"bn\">বাংলা</a>\n      <button aria-expanded=\"false\" aria-label=\"Open navigation menu\" aria-controls=\"wishly-guide-navigation\" class=\"menu-toggle mobile-nav-toggle\" type=\"button\"><span></span><span></span><span></span></button>\n    </div>\n  </div>\n</header><main id=\"main\"><section class=\"page-hero\"><div class=\"container\"><div class=\"page-heading\"><div class=\"breadcrumbs\"><a href=\"/\">Home</a><span>›</span><a href=\"/guides/\">Guides</a><span>›</span><span>Wedding invitation guide</span></div><span class=\"eyebrow\">WEDDING INVITATION GUIDE · WISHLY GUIDE</span><h1>Wedding Invitation Website Checklist: What to Include</h1><p>A wedding invitation website gives guests one place to revisit the details of the celebration. A clear layout helps people understand when to arrive, where to go and whom to contact—while the design can still reflect the couple’s story.</p></div></div></section><section class=\"page-body\"><div class=\"container article-layout\"><article class=\"article\"><p class=\"article-lead\">A wedding invitation website gives guests one place to revisit the details of the celebration. A clear layout helps people understand when to arrive, where to go and whom to contact—while the design can still reflect the couple’s story.</p><figure class=\"article-featured-image\"><img alt=\"An elegant wedding story website visual for an online invitation checklist\" width=\"1200\" height=\"630\" src=\"/assets/editorial/online-wedding-invitation-checklist.webp\" loading=\"eager\" fetchpriority=\"high\"/><figcaption>An elegant wedding story website visual for an online invitation checklist · Wishly Guide</figcaption></figure><div class=\"article-byline\"><span class=\"byline-mark\">✦</span><span><strong>Wishly Guide</strong><small>Practical product guides · <a href=\"/about/\">About this publication</a></small></span></div><div class=\"article-meta\"><span>Wedding invitation guide</span><span>5 min read</span><span>Updated 7 November 2026</span></div><h2 id=\"section-1\">Start with the essential event details</h2><p>Put the names of the couple, the wedding date and the main venue near the top of the page. Include the local time and time zone when guests may be travelling from another region. If the celebration has more than one event, distinguish the ceremony, reception and any related gatherings clearly.</p><p>Use consistent date formatting and write the venue name exactly as guests will see it on maps or signs. Avoid relying on a decorative image for important information; keep key details as readable text.</p><h2 id=\"section-2\">Add a simple schedule</h2><p>List the main moments in chronological order. For example: guest arrival, ceremony, photographs, reception and dinner. You do not need to describe every minute. A concise schedule helps guests plan transport and understand whether they should arrive early.</p><p>If the schedule may change, add a visible “last updated” note and make sure the person responsible for the invitation can update the details before guests rely on them.</p><h2 id=\"section-3\">Make the venue easy to find</h2><p>Include the full venue name, street address and a map link. Add a short note about parking, public transport or the closest landmark when it will help visitors. For destination weddings, include local travel guidance and accommodation suggestions only when the information is confirmed.</p><p>Test the map link on a phone. A guest who is already travelling should not have to search through a long paragraph to find the location.</p><aside aria-label=\"Advertisements\" class=\"ad-slot\" data-ad-key=\"article-inline\"><span class=\"ad-label\">Advertisements</span><div class=\"ad-render\"></div></aside><h2 id=\"section-4\">Explain guest expectations clearly</h2><p>If there is a dress code, describe it in plain language and explain any practical details. Mention accessibility arrangements, children’s attendance or other important expectations only when the couple has decided them. Keep the tone welcoming rather than overly formal.</p><p>If guests need to RSVP, provide the confirmed response method and deadline. Do not imply that a template has an RSVP form unless that feature is actually available in the selected design or connected service. A clear contact method can be a useful alternative.</p><h2 id=\"section-5\">Use photos and story elements with restraint</h2><p>A short “our story” section can make an invitation feel personal. Choose a few photos that the couple is happy to share and write captions that add context. The purpose is to welcome guests into the celebration, not make them scroll through an entire photo archive before finding the venue.</p><p>Use the same visual style for headings, buttons and information cards. Keep contrast strong and text large enough to read on a small screen.</p><h2 id=\"section-6\">Review the page before sending it</h2><ul><li>Confirm names, date, time and time zone.</li><li>Check the venue address and map link.</li><li>Verify schedule and RSVP details with the couple.</li><li>Test the page on a phone and desktop.</li><li>Check that every important detail is available as selectable text.</li><li>Share the link with a small test group before sending it to all guests.</li></ul><div class=\"article-callout\"><h3>Turn the idea into a Wishly website</h3><p>Explore the available templates, choose a design that fits your message and personalize the supported content in the visual editor.</p><p><a class=\"btn\" href=\"https://wishly.bd/templates/\" target=\"_blank\" rel=\"noopener noreferrer\">Browse Wishly templates ↗</a> &nbsp; <a class=\"btn btn-outline\" href=\"https://wishly.bd/create/\" target=\"_blank\" rel=\"noopener noreferrer\">Create your website ↗</a></p></div><h2 id=\"faq\">Frequently asked questions</h2><h3>What information should a wedding invitation website include?</h3><p>At minimum, include the couple’s names, date, start time, venue and a contact method. A schedule, map, dress code, travel notes and RSVP instructions can make it more useful.</p><h3>Can an online wedding invitation replace a printed invitation?</h3><p>That depends on the couple and guest preferences. A website can make event details easy to update and revisit, while printed invitations may still be preferred for formal or keepsake purposes.</p><h3>Should an RSVP form be included?</h3><p>Include an RSVP form only if the chosen platform or template actually supports it. Otherwise, provide a clear response link or contact method and confirm the deadline.</p><p class=\"small-muted\">Wishly features, templates and editor controls may change. Check the current product interface and the selected template for the latest options. Avoid sharing personal information that should remain private.</p></article><aside class=\"article-toc\"><h3>In this guide</h3><nav><a href=\"#section-1\">Start with the essential event details</a><a href=\"#section-2\">Add a simple schedule</a><a href=\"#section-3\">Make the venue easy to find</a><a href=\"#section-4\">Explain guest expectations clearly</a><a href=\"#section-5\">Use photos and story elements with restraint</a><a href=\"#section-6\">Review the page before sending it</a><a href=\"#faq\">Frequently asked questions</a></nav><div class=\"toc-cta\"><a href=\"https://wishly.bd/create/\" target=\"_blank\" rel=\"noopener noreferrer\">Create with Wishly ↗</a></div></aside></div></section></main><section class=\"guide-to-wishly-cta\"><div class=\"guide-to-wishly-inner\"><div><p class=\"section-kicker\">MAKE THE IDEA YOURS</p><h2>Ready to create your own Wishly website?</h2><p>Choose a template, add your words and photos, then publish a personal page to share.</p></div><div class=\"guide-to-wishly-actions\"><a class=\"premium-button\" href=\"https://wishly.bd/create/\" target=\"_blank\" rel=\"noopener noreferrer\">Create your website →</a><a class=\"premium-button premium-button-ghost\" href=\"https://wishly.bd/templates/\" target=\"_blank\" rel=\"noopener noreferrer\">Browse templates ↗</a></div></div></section><footer class=\"site-footer hp-foot\">\n      <div class=\"premium-container\">\n        <div class=\"hp-foot-row footer-main-row\">\n          <div class=\"hp-foot-brand\">\n            <a aria-label=\"Wishly Guide home\" class=\"brand-lockup brand\" href=\"/\">\n              <span class=\"brand-mark\" aria-hidden=\"true\">✦</span><span class=\"brand-lockup-copy\"><b>Wishly</b><small>GUIDE · CREATE MOMENTS</small></span>\n            </a>\n            <p>Ideas, practical tutorials and clear answers for creating personal websites that make life’s special moments feel even more memorable.</p>\n            <a class=\"premium-button premium-button-ghost footer-main-cta\" href=\"https://wishly.bd/\" target=\"_blank\" rel=\"noopener noreferrer\">Main Wishly website ↗</a>\n          </div>\n          <div class=\"footer-link-group\"><h4>Explore</h4><a href=\"/guides/\">All guides</a><a href=\"/topics/love-and-romance/\">Love &amp; romance</a><a href=\"/topics/emotional-support/\">Emotional support</a><a href=\"/topics/communication-and-repair/\">Communication &amp; repair</a><a href=\"/topics/long-distance-relationships/\">Long-distance</a><a href=\"/topics/special-occasions/\">Special occasions</a><a href=\"/topics/friendship-and-gratitude/\">Friendship &amp; gratitude</a><a href=\"/features/\">Wishly features</a><a href=\"/authors/ra-fahim/\">RA Fahim · Developer</a><a href=\"/faq/\">Frequently asked</a><a href=\"/about/\">About Wishly</a><a href=\"/authors/ra-fahim/\">Meet the developer</a></div>\n          <div class=\"footer-link-group\"><h4>Wishly</h4><a href=\"https://wishly.bd/\" target=\"_blank\" rel=\"noopener noreferrer\">Main Wishly website ↗</a><a href=\"https://wishly.bd/templates/\" target=\"_blank\" rel=\"noopener noreferrer\">Browse templates ↗</a><a href=\"https://wishly.bd/create/\" target=\"_blank\" rel=\"noopener noreferrer\">Create a website ↗</a></div>\n        </div>\n        <div class=\"footer-bottom\"><span>© 2026 Wishly Guide. All rights reserved.</span><span>Part of the <a href=\"https://wishly.bd/\" target=\"_blank\" rel=\"noopener noreferrer\">Wishly</a> experience.</span></div>\n        <div class=\"container footer-legal-links\"><a href=\"/privacy/\">Privacy</a><a href=\"/terms/\">Terms</a><a href=\"/editorial-policy/\">Editorial policy</a><a href=\"/contact/\">Contact</a></div>\n      </div>\n    </footer>",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Article",
+        "@id": "https://guide.wishly.bd/guides/wedding-invitation-website-checklist/#article",
+        "headline": "Wedding Invitation Website Checklist: What to Include",
+        "description": "A wedding invitation website gives guests one place to revisit the details of the celebration. A clear layout helps people understand when to arrive, where to go and whom to contact—while the design can still reflect the couple’s story.",
+        "image": [
+          "https://guide.wishly.bd/assets/editorial/online-wedding-invitation-checklist.webp"
+        ],
+        "datePublished": "2026-11-07",
+        "dateModified": "2026-11-07",
+        "author": {
+          "@type": "Organization",
+          "@id": "https://guide.wishly.bd/about/#publisher",
+          "name": "Wishly Guide",
+          "url": "https://guide.wishly.bd/about/"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "@id": "https://wishly.bd/#org",
+          "name": "Wishly",
+          "url": "https://wishly.bd",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://wishly.bd/icon-512.webp"
+          }
+        },
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://guide.wishly.bd/guides/wedding-invitation-website-checklist/"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://guide.wishly.bd/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Guides",
+            "item": "https://guide.wishly.bd/guides/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Wedding Invitation Website Checklist: What to Include",
+            "item": "https://guide.wishly.bd/guides/wedding-invitation-website-checklist/"
+          }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What information should a wedding invitation website include?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "At minimum, include the couple’s names, date, start time, venue and a contact method. A schedule, map, dress code, travel notes and RSVP instructions can make it more useful."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can an online wedding invitation replace a printed invitation?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "That depends on the couple and guest preferences. A website can make event details easy to update and revisit, while printed invitations may still be preferred for formal or keepsake purposes."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Should an RSVP form be included?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Include an RSVP form only if the chosen platform or template actually supports it. Otherwise, provide a clear response link or contact method and confirm the deadline."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "lang": "en",
+  "source": "Original Wishly Guide editorial content"
+}

@@ -5,7 +5,7 @@ import type { ReactNode } from "react";
 export const metadata: Metadata = {
   metadataBase: new URL("https://guide.wishly.bd"),
   title: { default: "Wishly Guide | Ideas for Every Meaningful Moment", template: "%s" },
-  description: "Find birthday website ideas, proposal and anniversary inspiration, wedding invitations and personal message guides. Create and share a page with Wishly.",
+  description: "Find thoughtful relationship advice, emotional support, romantic ideas and practical guides for birthdays, proposals, anniversaries, friendship and personal websites with Wishly.",
   applicationName: "Wishly Guide",
   creator: "Wishly",
   publisher: "Wishly",
@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     type: "website",
     siteName: "Wishly Guide",
     title: "Wishly Guide | Ideas for Every Meaningful Moment",
-    description: "Practical inspiration and clear tutorials for personal birthday, proposal, anniversary and wedding websites.",
+    description: "Practical relationship ideas, emotional support and clear tutorials for birthday, proposal, anniversary, friendship and personal websites.",
     url: "/",
     locale: "en_US",
     images: [{ url: "/assets/og-wishly-guide.png", width: 1200, height: 630, alt: "Wishly Guide — ideas, tutorials and inspiration" }]
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Wishly Guide | Ideas for Every Meaningful Moment",
-    description: "Practical inspiration and clear tutorials for personal birthday, proposal, anniversary and wedding websites.",
+    description: "Practical relationship ideas, emotional support and clear tutorials for birthday, proposal, anniversary, friendship and personal websites.",
     images: ["/assets/og-wishly-guide.png"]
   }
 };
@@ -46,6 +46,10 @@ export default function RootLayout({ children }: Readonly<{ children: ReactNode 
         <link rel="stylesheet" href="/assets/publisher.css" />
         <link rel="stylesheet" href="/assets/wishly-main-theme.css" />
         <link rel="stylesheet" href="/assets/wishly-main-home.css" />
+        <link rel="stylesheet" href="/assets/wishly-main-nav-luxe.css" />
+        <link rel="stylesheet" href="/assets/wishly-main-nav-profile.css" />
+        <link rel="stylesheet" href="/assets/wishly-main-navbar.css" />
+        <link rel="stylesheet" href="/assets/wishly-emotional-content.css" />
         <Script id="google-adsense" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9101632317352495" crossOrigin="anonymous" strategy="beforeInteractive" />
       </head>
       <body>

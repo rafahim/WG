@@ -117,3 +117,31 @@ next.config.ts       output: export, trailing slashes
 ## AdSense
 
 The sitewide AdSense loader is included in `app/layout.tsx` for publisher `ca-pub-9101632317352495`. `public/ads.txt` contains the corresponding seller record. Manual display units are intentionally disabled until real Ad Slot IDs are supplied. AdSense approval is separate from code integration. For personalized ads in the EEA, UK and Switzerland, configure a Google-certified TCF CMP in line with Google's current requirements.
+
+## Latest navigation and editorial update
+
+The header follows the supplied main Wishly `PublicNavbar` structure and design system: Wishly brand lockup, pill-style navigation, Create Website CTA, account dropdown, responsive mobile menu and direct Main Wishly / Templates / Create links. The homepage and Guides library now surface editorial guides and six topic collections.
+
+This content expansion adds **25 new original English articles**, bringing the guide library to **43 articles**, plus **6 topic hub pages**. The new articles cover proposing, asking someone to be a partner, making a girlfriend feel appreciated, cheering someone up, responding respectfully to anger, apologising, repairing conflict, romantic gestures, love letters, long-distance relationships, virtual dates, birthdays, anniversaries, stress support, healthy communication, personal space, friendship and gratitude.
+
+The articles use real Wishly template preview images from the supplied source project, contextual template links, the Main Wishly website CTA, author attribution to RA Fahim, related-article links, FAQs and Article/Breadcrumb structured data. A dedicated `/authors/ra-fahim/` profile remains available. No unverified traffic, revenue or search-volume numbers are claimed.
+
+The current project has **62 static routes**, **43 guide articles**, **6 topic collections** and **63 page/content JSON records**. The Guides library displays all 43 articles and the homepage features six selected articles plus topic navigation. See `QA-REPORT.txt` and `SEO-CONTENT-MAP.md` for the validation summary and keyword clusters.
+
+
+## Relationship and emotional content expansion
+
+This edition adds 25 original English guides covering love and romance, proposals, relationship communication, apologies, conflict repair, emotional support, long-distance relationships, anniversaries, birthdays, friendship and gratitude. Six topical collection pages group the guides into useful journeys. Each new article includes a unique title and description, a real Wishly template image, visible FAQ content, BlogPosting/Breadcrumb/FAQ structured data, an author link, relevant template links and a direct path to the main Wishly website.
+
+## Publishing standards
+
+Content is written as general educational guidance, not professional therapy. It emphasises consent, privacy, mutual respect, boundaries and non-coercive communication. Search phrases are used naturally as topics and headings; no fabricated search-volume values or guaranteed ranking claims are included. Review template details and links whenever the main Wishly product changes.
+
+## Content clusters
+
+- Love & Romance: proposals, girlfriend messages, love letters, romantic gestures and date nights.
+- Emotional Support: cheering someone up, stress support, anger and personal space.
+- Communication & Repair: apologies, making up after arguments, boundaries and active listening.
+- Long-Distance Relationships: virtual dates, staying connected and missing someone.
+- Special Occasions: birthdays and anniversaries.
+- Friendship & Gratitude: best-friend surprises and thank-you messages.

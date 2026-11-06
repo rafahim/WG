@@ -3,7 +3,7 @@ import HtmlPage from "@/components/HtmlPage";
 import pageData from "@/content/guides__wedding-invitation-website.json";
 
 export const metadata: Metadata = {
-  title: "Wedding Invitation Website: What to Include | Wishly Guide",
+  title: "Wedding Invitation Website Guide",
   description: "Create a useful online wedding invitation with names, dates, time zones, venue details, event schedule, RSVP information and mobile-friendly design.",
   alternates: {
     canonical: "/guides/wedding-invitation-website/",
@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   robots: { index: true, follow: true, googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1, "max-video-preview": -1 } },
   openGraph: {
     type: "article",
-    title: "Wedding Invitation Website: What to Include | Wishly Guide",
+    title: "Wedding Invitation Website Guide",
     description: "Create a useful online wedding invitation with names, dates, time zones, venue details, event schedule, RSVP information and mobile-friendly design.",
     url: "/guides/wedding-invitation-website/",
     siteName: "Wishly Guide",
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Wedding Invitation Website: What to Include | Wishly Guide",
+    title: "Wedding Invitation Website Guide",
     description: "Create a useful online wedding invitation with names, dates, time zones, venue details, event schedule, RSVP information and mobile-friendly design.",
     images: ["https://guide.wishly.bd/assets/og-wishly-guide.png"]
   }

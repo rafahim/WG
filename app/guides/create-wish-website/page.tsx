@@ -3,7 +3,7 @@ import HtmlPage from "@/components/HtmlPage";
 import pageData from "@/content/guides__create-wish-website.json";
 
 export const metadata: Metadata = {
-  title: "Create a Personal Wish Website Without Coding | Wishly Guide",
+  title: "Create a Personal Wish Website | Wishly",
   description: "Learn how to make a personal wish website with Wishly: choose a template, personalize text and media, customize its design, preview and share it.",
   alternates: {
     canonical: "/guides/create-wish-website/",
@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   robots: { index: true, follow: true, googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1, "max-video-preview": -1 } },
   openGraph: {
     type: "article",
-    title: "Create a Personal Wish Website Without Coding | Wishly Guide",
+    title: "Create a Personal Wish Website | Wishly",
     description: "Learn how to make a personal wish website with Wishly: choose a template, personalize text and media, customize its design, preview and share it.",
     url: "/guides/create-wish-website/",
     siteName: "Wishly Guide",
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Create a Personal Wish Website Without Coding | Wishly Guide",
+    title: "Create a Personal Wish Website | Wishly",
     description: "Learn how to make a personal wish website with Wishly: choose a template, personalize text and media, customize its design, preview and share it.",
     images: ["https://guide.wishly.bd/assets/og-wishly-guide.png"]
   }

@@ -1,47 +1,84 @@
-Wishly Guide — Next.js Static Export / Main Wishly UI Edition
-============================================================
+WISHLY GUIDE — EMOTIONAL CONTENT + SEO EXPANSION
+=================================================
 
-Project summary
-- 25 explicit Next.js App Router routes configured for static export.
-- 26 content JSON files parsed; the guide index contains 13 English guide articles.
-- English is the default language; translated Bengali pages live under /bn/.
-- Additional practical sections expanded the proposal, sharing-link and design-settings guides.
-- Shared article page includes title, reading time, featured image, body content, contextual navigation, CTA and relevant structured data.
+Project inventory
+- 62 statically declared Next.js App Router routes.
+- 63 content JSON records parsed.
+- 43 English guide articles in the Guide library (18 previous + 25 new).
+- 6 topic collection pages: Love & Romance, Emotional Support, Communication & Repair, Long-Distance Relationships, Special Occasions, and Friendship & Gratitude.
+- Homepage features six editorial guides and all six topic collections.
+- 54 WebP editorial/template image assets are available locally.
 
-Main Wishly visual identity
-- Navigation and homepage hero structure were adapted from the supplied main Wishly source project.
-- Uses the same dark palette, Wishly pink/violet gradients, star brand mark, pill navigation, CTA treatment, local font assets and glass surfaces.
-- Homepage hero follows the main Wishly headline/eyebrow + orbit rings + floating cards + CSS pick/edit/share preview demo.
-- Main Website, Create Website and Browse Templates links are available in the header, mobile menu, footer and article CTAs.
+New articles (25)
+- How to propose to your girlfriend.
+- How to ask a girl to be your girlfriend.
+- How to make your girlfriend feel special.
+- How to cheer up your girlfriend.
+- What to do when your girlfriend is angry.
+- How to apologize to your girlfriend.
+- How to make up after a fight.
+- Romantic things to do for your girlfriend.
+- Cute things to say to your girlfriend.
+- How to write a love letter to your girlfriend.
+- Long-distance relationship ideas.
+- Virtual date ideas for long-distance couples.
+- Anniversary surprise ideas for couples.
+- Girlfriend birthday surprise ideas.
+- How to support your partner during stress.
+- Healthy relationship communication tips.
+- What to do when your partner needs space.
+- What to write when you miss your girlfriend.
+- How to create a romantic surprise website.
+- How to be a better listener in a relationship.
+- How to celebrate small moments in a relationship.
+- How to make your best friend feel special.
+- What to write in an apology letter.
+- Ways to show appreciation to family and friends.
+- How to plan a thoughtful date night.
 
-SEO and international support
-- Unique Metadata API title/description/canonical/Open Graph/Twitter metadata across routes.
-- Structured data and breadcrumb/article/FAQ markup retained where appropriate.
-- Static XML sitemap, robots.txt, favicon and web manifest included.
-- English/Bengali hreflang pairs used only for genuinely translated routes.
-- Static export uses trailing slashes and unoptimized static image assets for GitHub Pages.
+Content quality and imagery
+- All 25 new articles include a featured Wishly template/product image sourced from the supplied Wishly project, meaningful alt text, practical step-by-step advice and visible FAQs.
+- New articles have approximately 521–871 words in the article element, including FAQ and CTA text. The actual main narrative is shorter; Google does not prescribe a target word count.
+- 25 new articles include contextual links to matching Wishly template pages, Browse Templates and Create Website.
+- New articles contain a byline to the RA Fahim author profile and three related guide links where possible.
+- The homepage and Guides page both surface the new content; topic hubs group related articles.
+- Relationship guidance emphasises consent, boundaries, privacy and non-coercive communication.
+
+SEO implementation
+- Unique, concise title tags and meta descriptions for new article routes; canonical URLs and Open Graph/Twitter metadata are present.
+- BlogPosting, BreadcrumbList and visible FAQ content with corresponding structured data are emitted for new articles.
+- Topic hubs use CollectionPage, ItemList and BreadcrumbList structured data.
+- XML sitemap includes all 62 static routes; robots.txt points to sitemap.xml.
+- English is primary; Bengali remains at /bn/ and /bn/guides/. No hreflang alternates are invented for English-only new articles.
+- `SEO-CONTENT-MAP.md` documents primary search-intent phrases, article URLs and official Google editorial references. No unsupported monthly search-volume estimates are used.
+
+Wishly product integration
+- Shared header follows the supplied main Wishly PublicNavbar design and structure.
+- Homepage, article pages and footer include links to the main Wishly website.
+- Every new post includes Browse Templates and Create with Wishly CTAs, plus a contextual relevant template link.
+- Verified template URL pattern: https://wishly.bd/template/{slug}/.
 
 AdSense configuration
-- The user-supplied AdSense loader is included site-wide in app/layout.tsx for ca-pub-9101632317352495.
-- public/ads.txt contains the matching seller record: google.com, pub-9101632317352495, DIRECT, f08c47fec0942fa0.
-- Ad placement placeholders are visibly labelled "Advertisements".
-- Manual display ad units remain disabled until actual Ad Slot IDs and AdSense approval are available. Auto Ads can be controlled in the AdSense account after approval.
-- No made-up slot IDs have been inserted.
-- No certified CMP is bundled. For personalized ads to visitors in the EEA, UK or Switzerland, configure a Google-certified CMP integrated with the IAB TCF before serving those ads.
+- The user-supplied AdSense loader is present site-wide for publisher ca-pub-9101632317352495.
+- public/ads.txt contains: google.com, pub-9101632317352495, DIRECT, f08c47fec0942fa0
+- Existing article ad placeholders remain configured; manual rendering is disabled until real ad-slot IDs are provided and account approval is complete.
+- A Google-certified CMP is not included. Configure a suitable CMP before serving personalized ads to EEA, UK and Swiss visitors, and review requirements for all other regions.
 
-Validation completed
-- scripts/validate-project.py: PASS (25 routes, 26 JSON content files, 25 sitemap URLs, local file/route links, in-page anchors, JSON-LD, Metadata API, static export configuration and GitHub Pages workflow).
-- Publisher ID script attributes and ads.txt seller record: PASS.
-- Main Wishly home/create destination links: PASS.
-- Singular "Advertisement" labels: none found; visible ad labels use "Advertisements".
-- New guide article word counts: Proposal 747; Link preview/sharing 707; Theme/font settings 673. English guide articles range approximately 516–854 words after content expansion.
-- Full Next.js production build could not be run in this environment because npm registry dependency installation timed out. GitHub Actions is configured to install dependencies, run typecheck, run next build, check out/index.html, out/404.html and out/sitemap.xml, and deploy out/ to GitHub Pages.
-- A local browser screenshot could not be captured because the execution environment blocked the localhost browser navigation. Responsive styles and reduced-motion rules are included; perform final visual checks after local/GitHub deployment.
+Validation results
+- PASS: scripts/validate-project.py reports 62 static routes, 63 JSON records, sitemap route mapping, internal links/anchors, JSON-LD syntax, metadata, export config and GitHub Pages workflow.
+- PASS: 43 Guide cards are present in the Guides library.
+- PASS: 25 new articles have unique routes, H1, author link, product CTAs and existing local featured images.
+- PASS: new SEO titles are unique and under 60 characters.
+- PASS: image intrinsic dimensions were updated to match actual image files.
+- NOT RUN: full Next.js production build / TypeScript check, because Next.js and React dependencies are not installed in this container and npm registry access was unavailable in previous attempts. Run npm install, npm run typecheck and npm run build locally or via GitHub Actions.
+- NOT RUN: live browser screenshot or Google indexing test; deployment and DNS are still the owner's steps.
 
-Manual steps before public launch
-1. Run npm install, npm run typecheck and npm run build locally or use the GitHub Actions workflow.
-2. Confirm guide.wishly.bd DNS and GitHub Pages custom domain, then enable HTTPS.
-3. Test the live homepage, navigation, mobile layout, article links, 404, sitemap and ads.txt.
-4. Verify the domain in Google Search Console and submit https://guide.wishly.bd/sitemap.xml.
-5. Complete and maintain original editorial content. AdSense review and ranking are not guaranteed by technical setup alone.
-6. After AdSense approval, either enable Auto Ads from the AdSense account or add real ad-slot IDs to public/assets/ads-config.js and enable the manual units.
+Before launch
+1. Run `npm install`, `npm run typecheck`, and `npm run build`; verify `out/` exists.
+2. Deploy the repository root via GitHub Pages → GitHub Actions.
+3. Verify guide.wishly.bd DNS, HTTPS, canonical URLs and public images.
+4. Submit https://guide.wishly.bd/sitemap.xml in Google Search Console and monitor indexing.
+5. Confirm publisher ID, ads.txt, real ad-slot IDs, AdSense approval and CMP setup before enabling ads.
+6. Review product-specific steps and update the content when the main Wishly templates or editor change.
+
+No Google ranking or AdSense approval is guaranteed by code, content volume or metadata alone.

@@ -3,7 +3,7 @@ import HtmlPage from "@/components/HtmlPage";
 import pageData from "@/content/guides__theme-font-settings.json";
 
 export const metadata: Metadata = {
-  title: "How to Customize a Website Template: Colors & Fonts | Wishly Guide",
+  title: "Customize Wishly Template Colors & Fonts",
   description: "Learn how to customize a Wishly template with a color preset, custom HEX color, font selection and a careful mobile preview.",
   alternates: {
     canonical: "/guides/theme-font-settings/",
@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   robots: { index: true, follow: true, googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1, "max-video-preview": -1 } },
   openGraph: {
     type: "article",
-    title: "How to Customize a Website Template: Colors & Fonts | Wishly Guide",
+    title: "Customize Wishly Template Colors & Fonts",
     description: "Learn how to customize a Wishly template with a color preset, custom HEX color, font selection and a careful mobile preview.",
     url: "/guides/theme-font-settings/",
     siteName: "Wishly Guide",
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "How to Customize a Website Template: Colors & Fonts | Wishly Guide",
+    title: "Customize Wishly Template Colors & Fonts",
     description: "Learn how to customize a Wishly template with a color preset, custom HEX color, font selection and a careful mobile preview.",
     images: ["https://guide.wishly.bd/assets/og-wishly-guide.png"]
   }
