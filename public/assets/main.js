@@ -7,23 +7,18 @@
   const scrim=document.querySelector(".wg-nav-scrim");
   let savedY=0,locked=false,previousFocus=null;
   const focusable=()=>panel?[...panel.querySelectorAll('a[href],button:not([disabled]),[tabindex]:not([tabindex="-1"])')].filter(el=>el.getClientRects().length):[];
-  function openMenu(){
+  function openMenu(viaKeyboard=false){
     if(!toggle||!panel||locked)return;
     savedY=window.scrollY||window.pageYOffset||0;
     previousFocus=document.activeElement;
     locked=true;
     document.documentElement.classList.add("wg-menu-open");
     document.body.classList.add("wg-menu-open");
-    document.body.style.position="fixed";
-    document.body.style.top=`-${savedY}px`;
-    document.body.style.left="0";
-    document.body.style.right="0";
-    document.body.style.width="100%";
     panel.classList.add("is-open");
     if(scrim)scrim.hidden=false;
     toggle.setAttribute("aria-expanded","true");
     toggle.setAttribute("aria-label","Close navigation menu");
-    requestAnimationFrame(()=>focusable()[0]?.focus({preventScroll:true}));
+    if(viaKeyboard)requestAnimationFrame(()=>focusable()[0]?.focus({preventScroll:true}));
   }
   function closeMenu(restoreFocus=false){
     if(!toggle||!panel||!locked)return;
@@ -33,22 +28,16 @@
     toggle.setAttribute("aria-label","Open navigation menu");
     document.documentElement.classList.remove("wg-menu-open");
     document.body.classList.remove("wg-menu-open");
-    document.body.style.position="";
-    document.body.style.top="";
-    document.body.style.left="";
-    document.body.style.right="";
-    document.body.style.width="";
     locked=false;
-    // html has scroll-behavior:smooth; restoring position must be instant, otherwise the
-    // page visibly scrolls up from the top every time the menu closes.
-    const root=document.documentElement,prevBehavior=root.style.scrollBehavior;
-    root.style.scrollBehavior="auto";
-    window.scrollTo(0,savedY);
-    root.style.scrollBehavior=prevBehavior;
+    // safety net: keep the exact scroll position the reader had (instant, not smooth)
+    if(Math.abs((window.scrollY||0)-savedY)>1){
+      const root=document.documentElement,prev=root.style.scrollBehavior;
+      root.style.scrollBehavior="auto";window.scrollTo(0,savedY);root.style.scrollBehavior=prev;
+    }
     if(restoreFocus)toggle.focus({preventScroll:true});
     else if(previousFocus instanceof HTMLElement)previousFocus.blur();
   }
-  toggle?.addEventListener("click",()=>locked?closeMenu(true):openMenu());
+  toggle?.addEventListener("click",ev=>locked?closeMenu(true):openMenu(ev.detail===0));
   scrim?.addEventListener("click",()=>closeMenu(true));
   panel?.querySelectorAll("a").forEach(a=>a.addEventListener("click",()=>closeMenu(false)));
   document.addEventListener("keydown",e=>{

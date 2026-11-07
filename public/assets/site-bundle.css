@@ -1438,3 +1438,29 @@ html.wg-menu-open, body.wg-menu-open {overflow:hidden !important;overscroll-beha
 /* 14. Footer clears the iPhone home indicator */
 .legacy-page .wg-footer { padding-bottom:max(22px, env(safe-area-inset-bottom)); }
 .legacy-page .back-top { right:max(22px, env(safe-area-inset-right)); bottom:max(22px, env(safe-area-inset-bottom)); }
+
+/* 15. ROOT CAUSE of the dead hamburger: the dimmer (.wg-nav-scrim, z-index 1201) sits after the
+   header (z-index 1200), so it painted OVER the header and the menu drawer inside it. Opening the
+   menu only blurred/darkened the page and the links were hidden behind the scrim.
+   The scrim now sits below the header; the drawer and the toggle stay on top of it. */
+@media (max-width:1060px) {
+  .legacy-page .wg-nav-scrim { z-index:1190; }
+  /* leftover rules from the old nav made the link list position:fixed (390px wide, off-screen
+     right edge) instead of flowing inside the drawer */
+  .legacy-page .wg-primary-nav {
+    position:static; top:auto; left:auto; right:auto; z-index:auto;
+    max-height:none; overflow:visible; box-shadow:none;
+  }
+}
+
+/* 16. Scroll lock while the menu is open: lock only the viewport (html). Locking <body> as well
+   turned it into its own clipped scroll box and the page jumped to another position. */
+html.wg-menu-open { overflow:hidden !important; overscroll-behavior:none; }
+body.wg-menu-open { overflow-x:clip !important; overflow-y:visible !important; overscroll-behavior:none; }
+
+/* 17. The desktop "pill" look (rounded 999px, tinted bg, padding) leaked into the mobile drawer */
+@media (max-width:1060px) {
+  .legacy-page .wg-nav-content .wg-primary-nav {
+    padding:0; border:0; border-radius:0; background:transparent; box-shadow:none;
+  }
+}
