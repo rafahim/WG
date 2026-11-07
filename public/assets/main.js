@@ -39,7 +39,12 @@
     document.body.style.right="";
     document.body.style.width="";
     locked=false;
+    // html has scroll-behavior:smooth; restoring position must be instant, otherwise the
+    // page visibly scrolls up from the top every time the menu closes.
+    const root=document.documentElement,prevBehavior=root.style.scrollBehavior;
+    root.style.scrollBehavior="auto";
     window.scrollTo(0,savedY);
+    root.style.scrollBehavior=prevBehavior;
     if(restoreFocus)toggle.focus({preventScroll:true});
     else if(previousFocus instanceof HTMLElement)previousFocus.blur();
   }

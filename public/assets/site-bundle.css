@@ -1393,3 +1393,48 @@ html.wg-menu-open, body.wg-menu-open {overflow:hidden !important;overscroll-beha
 /* 11. Gradient italic text: last letter was clipped by background-clip */
 .legacy-page :is(h1, h2) em,
 .legacy-page .video-hub-copy :is(h1, h2) em { padding-inline-end: .12em; }
+
+/* ===== Mobile fixes (final layer) ===== */
+
+/* 12. backdrop-filter on the header made it the containing block of the
+   position:fixed menu drawer and scrim, so the scrim only covered the header strip
+   and the page behind the menu was never dimmed/blocked. On mobile the blur now
+   lives on a pseudo-element, so fixed children are positioned against the viewport. */
+@media (max-width:1060px) {
+  .legacy-page .wg-site-header {
+    -webkit-backdrop-filter:none; backdrop-filter:none; background:transparent;
+    padding-left:max(18px, env(safe-area-inset-left)) !important;
+    padding-right:max(18px, env(safe-area-inset-right)) !important;
+  }
+  .legacy-page .wg-site-header::before {
+    content:""; position:absolute; inset:0; z-index:-1; pointer-events:none;
+    background:linear-gradient(180deg,rgba(255,255,255,.035),rgba(255,255,255,0) 70%),rgba(8,8,13,.84);
+    -webkit-backdrop-filter:blur(22px) saturate(1.4); backdrop-filter:blur(22px) saturate(1.4);
+  }
+  /* keep the hamburger/close button above the scrim so it can always be tapped */
+  .legacy-page .wg-menu-toggle { position:relative; z-index:1203; }
+}
+@media (max-width:620px) {
+  .legacy-page .wg-site-header {
+    padding-left:max(14px, env(safe-area-inset-left)) !important;
+    padding-right:max(14px, env(safe-area-inset-right)) !important;
+  }
+  /* 7px tagline was unreadable */
+  .legacy-page .wg-brand-copy small { font-size:8px; }
+}
+@media (max-width:340px) {
+  .legacy-page .wg-brand-copy small { display:none; }
+}
+
+/* 13. iOS Safari zooms the whole page when focusing an input under 16px */
+@media (max-width:900px) {
+  .legacy-page input:not([type="checkbox"]):not([type="radio"]):not([type="range"]),
+  .legacy-page select,
+  .legacy-page textarea,
+  .legacy-page .search-box input,
+  .legacy-page .hero-search input { font-size:16px !important; }
+}
+
+/* 14. Footer clears the iPhone home indicator */
+.legacy-page .wg-footer { padding-bottom:max(22px, env(safe-area-inset-bottom)); }
+.legacy-page .back-top { right:max(22px, env(safe-area-inset-right)); bottom:max(22px, env(safe-area-inset-bottom)); }
