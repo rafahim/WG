@@ -1,13 +1,14 @@
 (() => {
   "use strict";
   document.documentElement.classList.remove("no-js");
-  const header=document.querySelector(".wg-site-header");
-  const toggle=document.querySelector(".wg-menu-toggle");
-  const panel=document.querySelector(".wg-nav-content");
-  const scrim=document.querySelector(".wg-nav-scrim");
+  // Elements are looked up fresh every time (Next.js can replace the server HTML after this script
+  // has run, which left the old listeners attached to detached nodes = dead hamburger).
+  const $=sel=>document.querySelector(sel);
+  const getToggle=()=>$(".wg-menu-toggle"),getPanel=()=>$(".wg-nav-content"),getScrim=()=>$(".wg-nav-scrim"),getHeader=()=>$(".wg-site-header");
   let savedY=0,locked=false,previousFocus=null;
-  const focusable=()=>panel?[...panel.querySelectorAll('a[href],button:not([disabled]),[tabindex]:not([tabindex="-1"])')].filter(el=>el.getClientRects().length):[];
+  const focusable=()=>{const panel=getPanel();return panel?[...panel.querySelectorAll('a[href],button:not([disabled]),[tabindex]:not([tabindex="-1"])')].filter(el=>el.getClientRects().length):[];};
   function openMenu(viaKeyboard=false){
+    const toggle=getToggle(),panel=getPanel(),scrim=getScrim();
     if(!toggle||!panel||locked)return;
     savedY=window.scrollY||window.pageYOffset||0;
     previousFocus=document.activeElement;
@@ -21,11 +22,11 @@
     if(viaKeyboard)requestAnimationFrame(()=>focusable()[0]?.focus({preventScroll:true}));
   }
   function closeMenu(restoreFocus=false){
-    if(!toggle||!panel||!locked)return;
-    panel.classList.remove("is-open");
+    const toggle=getToggle(),panel=getPanel(),scrim=getScrim();
+    if(!locked)return;
+    if(panel)panel.classList.remove("is-open");
     if(scrim)scrim.hidden=true;
-    toggle.setAttribute("aria-expanded","false");
-    toggle.setAttribute("aria-label","Open navigation menu");
+    if(toggle){toggle.setAttribute("aria-expanded","false");toggle.setAttribute("aria-label","Open navigation menu");}
     document.documentElement.classList.remove("wg-menu-open");
     document.body.classList.remove("wg-menu-open");
     locked=false;
@@ -34,12 +35,19 @@
       const root=document.documentElement,prev=root.style.scrollBehavior;
       root.style.scrollBehavior="auto";window.scrollTo(0,savedY);root.style.scrollBehavior=prev;
     }
-    if(restoreFocus)toggle.focus({preventScroll:true});
+    if(restoreFocus&&toggle)toggle.focus({preventScroll:true});
     else if(previousFocus instanceof HTMLElement)previousFocus.blur();
   }
-  toggle?.addEventListener("click",ev=>locked?closeMenu(true):openMenu(ev.detail===0));
-  scrim?.addEventListener("click",()=>closeMenu(true));
-  panel?.querySelectorAll("a").forEach(a=>a.addEventListener("click",()=>closeMenu(false)));
+  // Event delegation: works no matter how many times the header DOM is re-created.
+  document.addEventListener("click",ev=>{
+    const t=ev.target instanceof Element?ev.target:null;
+    if(!t)return;
+    if(t.closest(".wg-menu-toggle")){ev.preventDefault();locked?closeMenu(true):openMenu(ev.detail===0);return;}
+    if(locked&&t.closest(".wg-nav-scrim")){closeMenu(true);return;}
+    if(locked&&t.closest(".wg-nav-content a"))closeMenu(false);
+  });
+  // If the DOM was swapped while the menu was "open", make sure state can never get stuck.
+  new MutationObserver(()=>{const p=getPanel();if(locked&&p&&!p.classList.contains("is-open")&&!document.querySelector(".wg-menu-toggle[aria-expanded=true]")){locked=false;document.documentElement.classList.remove("wg-menu-open");document.body.classList.remove("wg-menu-open");}}).observe(document.body,{childList:true,subtree:true});
   document.addEventListener("keydown",e=>{
     if(!locked)return;
     if(e.key==="Escape"){e.preventDefault();closeMenu(true);return;}
@@ -58,7 +66,7 @@
     const doc=document.documentElement,max=doc.scrollHeight-innerHeight;
     if(progress)progress.style.width=(max>0?scrollY/max*100:0)+"%";
     if(top)top.classList.toggle("show",scrollY>500);
-    if(header)header.classList.toggle("is-scrolled",scrollY>8);
+    const header=getHeader();if(header)header.classList.toggle("is-scrolled",scrollY>8);
   }
   window.addEventListener("scroll",scrollUI,{passive:true});scrollUI();
   top?.addEventListener("click",()=>scrollTo({top:0,behavior:"smooth"}));

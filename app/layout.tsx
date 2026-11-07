@@ -44,7 +44,7 @@ export default function RootLayout({ children }: Readonly<{ children: ReactNode 
         <meta name="google-adsense-account" content="ca-pub-9101632317352495" />
         <link rel="preload" href="/assets/fonts/inter-latin-wght-normal.woff2" as="font" type="font/woff2" crossOrigin="anonymous" />
         <link rel="preload" href="/assets/fonts/fraunces-latin-400-italic.woff2" as="font" type="font/woff2" crossOrigin="anonymous" />
-        <link rel="stylesheet" href="/assets/site-bundle.css" />
+        <link rel="stylesheet" href="/assets/site-bundle.css?v=20261107" />
         <link rel="alternate" type="application/rss+xml" title="Wishly Guide — English RSS" href="/feed.xml" />
         <link rel="alternate" type="application/rss+xml" title="Wishly Guide — বাংলা RSS" href="/bn/feed.xml" />
         <link rel="preconnect" href="https://pagead2.googlesyndication.com" crossOrigin="anonymous" />
@@ -76,7 +76,7 @@ export default function RootLayout({ children }: Readonly<{ children: ReactNode 
         {children}
         <Script src="/assets/ads-config.js" strategy="beforeInteractive" />
         <Script src="/assets/ads.js" strategy="afterInteractive" />
-        <Script src="/assets/main.js" strategy="afterInteractive" />
+        <Script src="/assets/main.js?v=20261107" strategy="afterInteractive" />
       </body>
     </html>
   );
