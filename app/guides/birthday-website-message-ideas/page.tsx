@@ -10,8 +10,7 @@ export const metadata: Metadata = {
   },
   robots: { index: true, follow: true, googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1, "max-video-preview": -1 } },
   openGraph: {
-    type: "article",
-    title: "Birthday Website Message Ideas | Wishly",
+    type: "article", publishedTime: "2026-11-07", modifiedTime: "2026-11-07", authors: ["https://guide.wishly.bd/about/"], title: "Birthday Website Message Ideas | Wishly",
     description: "Write a memorable birthday website message with a natural opening, a specific memory, thoughtful photo captions and a warm closing.",
     url: "/guides/birthday-website-message-ideas/",
     siteName: "Wishly Guide",

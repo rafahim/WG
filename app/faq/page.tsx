@@ -3,7 +3,7 @@ import HtmlPage from "@/components/HtmlPage";
 import pageData from "@/content/faq.json";
 
 export const metadata: Metadata = {
-  title: "Wishly FAQ: Templates, Editing, Publishing & Sharing | Wishly Guide",
+  title: "Wishly Guide FAQ: Editing, Publishing & Sharing",
   description: "Find answers about Wishly, the personal website maker: templates, no-code editing, photos, design settings, publishing, sharing and privacy.",
   alternates: {
     canonical: "/faq/",
@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   robots: { index: true, follow: true, googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1, "max-video-preview": -1 } },
   openGraph: {
     type: "website",
-    title: "Wishly FAQ: Templates, Editing, Publishing & Sharing | Wishly Guide",
+    title: "Wishly Guide FAQ: Editing, Publishing & Sharing",
     description: "Find answers about Wishly, the personal website maker: templates, no-code editing, photos, design settings, publishing, sharing and privacy.",
     url: "/faq/",
     siteName: "Wishly Guide",
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Wishly FAQ: Templates, Editing, Publishing & Sharing | Wishly Guide",
+    title: "Wishly Guide FAQ: Editing, Publishing & Sharing",
     description: "Find answers about Wishly, the personal website maker: templates, no-code editing, photos, design settings, publishing, sharing and privacy.",
     images: ["https://guide.wishly.bd/assets/og-wishly-guide.png"]
   }

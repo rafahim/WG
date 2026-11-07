@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "validate:metadata": "node scripts/validate-metadata.mjs"
   },
   "dependencies": {
     "next": "16.4.5",

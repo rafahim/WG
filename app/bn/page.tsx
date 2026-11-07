@@ -3,8 +3,9 @@ import HtmlPage from "@/components/HtmlPage";
 import pageData from "@/content/bn.json";
 
 export const metadata: Metadata = {
-  title: "Wishly Guide বাংলা — Wishly Website তৈরির গাইড ও টিউটোরিয়াল",
-  description: "Wishly দিয়ে জন্মদিনের ওয়েবসাইট, প্রপোজ ওয়েবসাইট, Anniversary surprise ও personal wish website তৈরি করার বাংলা গাইড, টিউটোরিয়াল এবং সহজ নির্দেশনা।",
+  title: "Wishly Guide বাংলা — Website তৈরির গাইড",
+  keywords: ["Wishly tutorial Bangla", "Wishly দিয়ে website তৈরি", "Wishly দিয়ে personal website বানানোর নিয়ম", "বাংলা ওয়েবসাইট টিউটোরিয়াল", "কোডিং ছাড়া ওয়েবসাইট তৈরি"],
+  description: "Wishly দিয়ে birthday, proposal, anniversary ও personal wish website তৈরি শিখুন। বাংলা ভিডিও, template edit, preview, publish ও share guide দেখুন।",
   alternates: {
     canonical: "/bn/",
     languages: {
@@ -16,8 +17,8 @@ export const metadata: Metadata = {
   robots: { index: true, follow: true, googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1, "max-video-preview": -1 } },
   openGraph: {
     type: "website",
-    title: "Wishly Guide বাংলা — Wishly Website তৈরির গাইড ও টিউটোরিয়াল",
-    description: "Wishly দিয়ে জন্মদিনের ওয়েবসাইট, প্রপোজ ওয়েবসাইট, Anniversary surprise ও personal wish website তৈরি করার বাংলা গাইড, টিউটোরিয়াল এবং সহজ নির্দেশনা।",
+    title: "Wishly Guide বাংলা — Website তৈরির গাইড",
+    description: "Wishly দিয়ে birthday, proposal, anniversary ও personal wish website তৈরি শিখুন। বাংলা ভিডিও, template edit, preview, publish ও share guide দেখুন।",
     url: "/bn/",
     siteName: "Wishly Guide",
     locale: "bn_BD",
@@ -26,8 +27,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Wishly Guide বাংলা — Wishly Website তৈরির গাইড ও টিউটোরিয়াল",
-    description: "Wishly দিয়ে জন্মদিনের ওয়েবসাইট, প্রপোজ ওয়েবসাইট, Anniversary surprise ও personal wish website তৈরি করার বাংলা গাইড, টিউটোরিয়াল এবং সহজ নির্দেশনা।",
+    title: "Wishly Guide বাংলা — Website তৈরির গাইড",
+    description: "Wishly দিয়ে birthday, proposal, anniversary ও personal wish website তৈরি শিখুন। বাংলা ভিডিও, template edit, preview, publish ও share guide দেখুন।",
     images: ["https://guide.wishly.bd/assets/og-wishly-guide.png"]
   }
 };

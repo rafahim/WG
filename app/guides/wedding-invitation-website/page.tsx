@@ -10,8 +10,7 @@ export const metadata: Metadata = {
   },
   robots: { index: true, follow: true, googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1, "max-video-preview": -1 } },
   openGraph: {
-    type: "article",
-    title: "Wedding Invitation Website Guide",
+    type: "article", publishedTime: "2026-11-07", modifiedTime: "2026-11-07", authors: ["https://guide.wishly.bd/about/"], title: "Wedding Invitation Website Guide",
     description: "Create a useful online wedding invitation with names, dates, time zones, venue details, event schedule, RSVP information and mobile-friendly design.",
     url: "/guides/wedding-invitation-website/",
     siteName: "Wishly Guide",

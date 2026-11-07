@@ -10,8 +10,7 @@ export const metadata: Metadata = {
   },
   robots: { index: true, follow: true, googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1, "max-video-preview": -1 } },
   openGraph: {
-    type: "article",
-    title: "Customize Wishly Template Colors & Fonts",
+    type: "article", publishedTime: "2026-11-07", modifiedTime: "2026-11-07", authors: ["https://guide.wishly.bd/about/"], title: "Customize Wishly Template Colors & Fonts",
     description: "Learn how to customize a Wishly template with a color preset, custom HEX color, font selection and a careful mobile preview.",
     url: "/guides/theme-font-settings/",
     siteName: "Wishly Guide",

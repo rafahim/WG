@@ -23,18 +23,28 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Regenerate SEO assets
+        run: python scripts/build-seo-assets.py
+      - name: Validate SEO and project assets
+        run: python scripts/validate-project.py
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 22
       - name: Install dependencies
-        run: npm install --no-audit --no-fund
-      - name: Type check
-        run: npm run typecheck
+        run: npm ci --no-audit --no-fund
+      - name: Validate page metadata
+        run: npm run validate:metadata
       - name: Build static site
         run: npm run build
+      - name: Type check generated route types
+        run: npm run typecheck
       - name: Verify static export
-        run: test -f out/index.html && test -f out/404.html && test -f out/sitemap.xml
+        run: test -f out/index.html && test -f out/404.html && test -f out/sitemap.xml && test -f out/sitemap-index.xml && test -f out/video-sitemap.xml && test -f out/feed.xml && test -f out/bn/feed.xml
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
       - name: Upload Pages artifact

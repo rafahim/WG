@@ -10,8 +10,7 @@ export const metadata: Metadata = {
   },
   robots: { index: true, follow: true, googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1, "max-video-preview": -1 } },
   openGraph: {
-    type: "article",
-    title: "Anniversary Website Ideas | Wishly Guide",
+    type: "article", publishedTime: "2026-11-07", modifiedTime: "2026-11-07", authors: ["https://guide.wishly.bd/about/"], title: "Anniversary Website Ideas | Wishly Guide",
     description: "Plan an anniversary website with a shared timeline, favorite photos, a personal letter and design details that reflect your story.",
     url: "/guides/anniversary-website-ideas/",
     siteName: "Wishly Guide",

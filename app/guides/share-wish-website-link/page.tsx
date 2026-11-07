@@ -10,8 +10,7 @@ export const metadata: Metadata = {
   },
   robots: { index: true, follow: true, googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1, "max-video-preview": -1 } },
   openGraph: {
-    type: "article",
-    title: "How to Share a Website Link | Wishly Guide",
+    type: "article", publishedTime: "2026-11-07", modifiedTime: "2026-11-07", authors: ["https://guide.wishly.bd/about/"], title: "How to Share a Website Link | Wishly Guide",
     description: "Learn how Wishly link previews work and how to add a custom preview title, description and photo before sharing your published website.",
     url: "/guides/share-wish-website-link/",
     siteName: "Wishly Guide",

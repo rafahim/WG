@@ -3,8 +3,8 @@ import HtmlPage from "@/components/HtmlPage";
 import pageData from "@/content/bn__guides__wish-website-toiri.json";
 
 export const metadata: Metadata = {
-  title: "Wishly দিয়ে Personal Wish Website তৈরি করবেন কীভাবে? | Wishly Guide",
-  description: "Wishly দিয়ে personal wish website তৈরি করার সম্পূর্ণ বাংলা নির্দেশনা: template বেছে নেওয়া, লেখা ও ছবি edit, theme/font পরিবর্তন, preview, publish এবং link share।",
+  title: "Wishly দিয়ে Personal Wish Website তৈরি",
+  description: "Wishly দিয়ে personal wish website তৈরি শিখুন: template বেছে লেখা ও ছবি edit, theme/font বদল, preview, publish এবং link share করার বাংলা গাইড।",
   alternates: {
     canonical: "/bn/guides/wish-website-toiri/",
     languages: {
@@ -15,8 +15,7 @@ export const metadata: Metadata = {
   },
   robots: { index: true, follow: true, googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1, "max-video-preview": -1 } },
   openGraph: {
-    type: "article",
-    title: "Wishly দিয়ে Personal Wish Website তৈরি করবেন কীভাবে? | Wishly Guide",
+    type: "article", publishedTime: "2026-11-07", modifiedTime: "2026-11-07", authors: ["https://guide.wishly.bd/about/"], title: "Wishly দিয়ে Personal Wish Website তৈরি",
     description: "Wishly দিয়ে personal wish website তৈরি করার সম্পূর্ণ বাংলা নির্দেশনা: template বেছে নেওয়া, লেখা ও ছবি edit, theme/font পরিবর্তন, preview, publish এবং link share।",
     url: "/bn/guides/wish-website-toiri/",
     siteName: "Wishly Guide",
@@ -26,7 +25,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Wishly দিয়ে Personal Wish Website তৈরি করবেন কীভাবে? | Wishly Guide",
+    title: "Wishly দিয়ে Personal Wish Website তৈরি",
     description: "Wishly দিয়ে personal wish website তৈরি করার সম্পূর্ণ বাংলা নির্দেশনা: template বেছে নেওয়া, লেখা ও ছবি edit, theme/font পরিবর্তন, preview, publish এবং link share।",
     images: ["https://guide.wishly.bd/assets/og-wishly-guide.png"]
   }

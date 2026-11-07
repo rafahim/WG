@@ -4,8 +4,8 @@ import pageData from "@/content/guides.json";
 
 export const metadata: Metadata = {
   title: "Relationship & Love Guides | Wishly Guide",
-  description: "Practical relationship advice, emotional support, love letters, proposal ideas, birthday surprises and tutorials for creating personal websites.",
-  keywords: ["relationship advice", "romantic ideas", "love letter", "proposal ideas", "emotional support", "birthday surprise website", "anniversary website", "Wishly"],
+  description: "Explore relationship advice, emotional support, wedding vows, friendship ideas and meaningful ways to stay connected.",
+  keywords: ["relationship advice", "first date questions", "show love without spending money", "emotional intimacy", "AI love letter generator", "how to write wedding vows", "sympathy message examples", "friendship day ideas", "first anniversary wishes", "good luck messages for a friend", "questions to ask your best friend", "Wishly"],
   alternates: {
     canonical: "/guides/",
     languages: {

@@ -1,4 +1,25 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://guide.wishly.bd/sitemap.xml
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: AdsBot-Google
+Allow: /
+
+User-agent: AdsBot-Google-Mobile
+Allow: /
+
+Sitemap: https://guide.wishly.bd/sitemap-index.xml

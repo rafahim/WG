@@ -15,8 +15,7 @@ export const metadata: Metadata = {
   },
   robots: { index: true, follow: true, googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1, "max-video-preview": -1 } },
   openGraph: {
-    type: "article",
-    title: "Create a Personal Wish Website | Wishly",
+    type: "article", publishedTime: "2026-11-07", modifiedTime: "2026-11-07", authors: ["https://guide.wishly.bd/about/"], title: "Create a Personal Wish Website | Wishly",
     description: "Learn how to make a personal wish website with Wishly: choose a template, personalize text and media, customize its design, preview and share it.",
     url: "/guides/create-wish-website/",
     siteName: "Wishly Guide",

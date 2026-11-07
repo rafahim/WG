@@ -10,8 +10,7 @@ export const metadata: Metadata = {
   },
   robots: { index: true, follow: true, googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1, "max-video-preview": -1 } },
   openGraph: {
-    type: "article",
-    title: "Birthday Wish Website Ideas | Wishly Guide",
+    type: "article", publishedTime: "2026-11-07", modifiedTime: "2026-11-07", authors: ["https://guide.wishly.bd/about/"], title: "Birthday Wish Website Ideas | Wishly Guide",
     description: "Discover birthday website ideas for a personal online surprise, including a memorable opening, meaningful message, photos, music and a shareable link.",
     url: "/guides/birthday-wish-website/",
     siteName: "Wishly Guide",

@@ -3,8 +3,9 @@ import HtmlPage from "@/components/HtmlPage";
 import pageData from "@/content/bn__guides.json";
 
 export const metadata: Metadata = {
-  title: "বাংলা Wishly Guide — Website তৈরির Tutorial",
-  description: "Wishly দিয়ে personal wish website তৈরির বাংলা গাইড, template editing, birthday website idea এবং সাধারণ প্রশ্নের উত্তর।",
+  title: "Wishly Tutorial Bangla: Website তৈরির গাইড ও ভিডিও",
+  keywords: ["Wishly tutorial Bangla", "Wishly দিয়ে website তৈরি", "Wishly দিয়ে personal website বানানোর নিয়ম", "Wishly বাংলা ভিডিও টিউটোরিয়াল", "বাংলা ওয়েবসাইট টিউটোরিয়াল", "কোডিং ছাড়া ওয়েবসাইট তৈরি"],
+  description: "Wishly দিয়ে Personal Website তৈরির বাংলা ভিডিও টিউটোরিয়াল, template নির্বাচন, message ও photo edit, preview, publish এবং share করার ধাপে ধাপে গাইড।",
   alternates: {
     canonical: "/bn/guides/",
     languages: {
@@ -16,8 +17,8 @@ export const metadata: Metadata = {
   robots: { index: true, follow: true, googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1, "max-video-preview": -1 } },
   openGraph: {
     type: "website",
-    title: "বাংলা Wishly Guide — Website তৈরির Tutorial",
-    description: "Wishly দিয়ে personal wish website তৈরির বাংলা গাইড, template editing, birthday website idea এবং সাধারণ প্রশ্নের উত্তর।",
+    title: "Wishly Tutorial Bangla: Website তৈরির গাইড ও ভিডিও",
+    description: "Wishly দিয়ে Personal Website তৈরির বাংলা ভিডিও টিউটোরিয়াল, template নির্বাচন, message ও photo edit, preview, publish এবং share করার ধাপে ধাপে গাইড।",
     url: "/bn/guides/",
     siteName: "Wishly Guide",
     locale: "bn_BD",
@@ -26,8 +27,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "বাংলা Wishly Guide — Website তৈরির Tutorial",
-    description: "Wishly দিয়ে personal wish website তৈরির বাংলা গাইড, template editing, birthday website idea এবং সাধারণ প্রশ্নের উত্তর।",
+    title: "Wishly Tutorial Bangla: Website তৈরির গাইড ও ভিডিও",
+    description: "Wishly দিয়ে Personal Website তৈরির বাংলা ভিডিও টিউটোরিয়াল, template নির্বাচন, message ও photo edit, preview, publish এবং share করার ধাপে ধাপে গাইড।",
     images: ["https://guide.wishly.bd/assets/og-wishly-guide.png"]
   }
 };

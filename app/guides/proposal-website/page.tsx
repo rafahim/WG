@@ -10,8 +10,7 @@ export const metadata: Metadata = {
   },
   robots: { index: true, follow: true, googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1, "max-video-preview": -1 } },
   openGraph: {
-    type: "article",
-    title: "How to Make a Proposal Website | Wishly Guide",
+    type: "article", publishedTime: "2026-11-07", modifiedTime: "2026-11-07", authors: ["https://guide.wishly.bd/about/"], title: "How to Make a Proposal Website | Wishly Guide",
     description: "Plan a romantic proposal website with a thoughtful story, meaningful photos, a clear final question and a respectful way to share it.",
     url: "/guides/proposal-website/",
     siteName: "Wishly Guide",

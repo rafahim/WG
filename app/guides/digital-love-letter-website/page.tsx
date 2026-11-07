@@ -10,8 +10,7 @@ export const metadata: Metadata = {
   },
   robots: { index: true, follow: true, googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1, "max-video-preview": -1 } },
   openGraph: {
-    type: "article",
-    title: "Create a Digital Love Letter Website",
+    type: "article", publishedTime: "2026-11-07", modifiedTime: "2026-11-07", authors: ["https://guide.wishly.bd/about/"], title: "Create a Digital Love Letter Website",
     description: "Learn how to turn a heartfelt letter into a personal online experience with a clear opening, meaningful details, photographs and a thoughtful ending.",
     url: "/guides/digital-love-letter-website/",
     siteName: "Wishly Guide",

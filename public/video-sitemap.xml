@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://guide.wishly.bd/video-guides/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://guide.wishly.bd/assets/editorial/wishly-personal-website-bangla-video-tutorial.webp</video:thumbnail_loc>
+      <video:title>Wishly দিয়ে নিজের Personal Website তৈরি করুন — বাংলা ভিডিও টিউটোরিয়াল</video:title>
+      <video:description>বাংলায় Wishly ব্যবহার করে personal website তৈরি করার ধাপে ধাপে ভিডিও টিউটোরিয়াল। Template নির্বাচন, message ও media সাজানো, preview, publish এবং share করার নির্দেশনা দেখুন।</video:description>
+      <video:player_loc allow_embed="yes">https://www.youtube-nocookie.com/embed/OfXaVJMdWRA</video:player_loc>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://guide.wishly.bd/bn/video-guides/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://guide.wishly.bd/assets/editorial/wishly-personal-website-bangla-video-tutorial.webp</video:thumbnail_loc>
+      <video:title>Wishly দিয়ে নিজের Personal Website তৈরি করুন — বাংলা ভিডিও টিউটোরিয়াল</video:title>
+      <video:description>বাংলায় Wishly ব্যবহার করে personal website তৈরি করার ধাপে ধাপে ভিডিও টিউটোরিয়াল। Template নির্বাচন, message ও media সাজানো, preview, publish এবং share করার নির্দেশনা দেখুন।</video:description>
+      <video:player_loc allow_embed="yes">https://www.youtube-nocookie.com/embed/OfXaVJMdWRA</video:player_loc>
+    </video:video>
+  </url>
+</urlset>
