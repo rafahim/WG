@@ -48,6 +48,8 @@ export default function RootLayout({ children }: Readonly<{ children: ReactNode 
         <link rel="alternate" type="application/rss+xml" title="Wishly Guide — English RSS" href="/feed.xml" />
         <link rel="alternate" type="application/rss+xml" title="Wishly Guide — বাংলা RSS" href="/bn/feed.xml" />
         <link rel="preconnect" href="https://pagead2.googlesyndication.com" crossOrigin="anonymous" />
+        <Script id="gtm-datalayer" strategy="beforeInteractive" dangerouslySetInnerHTML={{ __html: "window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());" }} />
+        <Script id="gtm" async src="https://www.googletagmanager.com/gtm.js?id=GTM-M57HHB74" strategy="beforeInteractive" />
         <Script id="google-adsense" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9101632317352495" crossOrigin="anonymous" strategy="beforeInteractive" />
       </head>
       <body>
