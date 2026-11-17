@@ -5,7 +5,7 @@ import pageData from "@/content/guides__thank-you-website-guide.json";
 export const metadata: Metadata = {
   title: "Thank-You Website Ideas | Wishly",
   description: "Plan a thoughtful thank-you website for a friend, teacher, parent, mentor or team with specific memories, photos and a message that feels genuine.",
-  alternates: { canonical: "/guides/thank-you-website-guide/" },
+  alternates: { canonical: "/guides/thank-you-website-guide/", languages: { en: "https://guide.wishly.bd/guides/thank-you-website-guide/", bn: "https://guide.wishly.bd/bn/guides/thank-you-website-bangla/", "x-default": "https://guide.wishly.bd/guides/thank-you-website-guide/" } },
   robots: { index: true, follow: true, googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1, "max-video-preview": -1 } },
   openGraph: { type: "article", publishedTime: "2026-11-07", modifiedTime: "2026-11-07", authors: ["https://guide.wishly.bd/about/"], title: "Thank-You Website Ideas | Wishly", description: "Plan a thoughtful thank-you website for a friend, teacher, parent, mentor or team with specific memories, photos and a message that feels genuine.", url: "/guides/thank-you-website-guide/", siteName: "Wishly Guide", locale: "en_US", images: [{ url: "https://guide.wishly.bd/assets/og-wishly-guide.png", width: 1200, height: 630, alt: "Wishly Guide — practical inspiration for meaningful moments" }] },
   twitter: { card: "summary_large_image", title: "Thank-You Website Ideas | Wishly", description: "Plan a thoughtful thank-you website for a friend, teacher, parent, mentor or team with specific memories, photos and a message that feels genuine.", images: ["https://guide.wishly.bd/assets/og-wishly-guide.png"] }

@@ -1,0 +1,74 @@
+{
+  "html": "<a class=\"skip-link\" href=\"#main\">Skip to content</a><header class=\"wg-site-header\"><div class=\"wg-nav-inner\"><a aria-label=\"Wishly Guide home\" class=\"wg-brand\" href=\"/\"><span class=\"wg-brand-mark\">✦</span><span class=\"wg-brand-copy\"><b>Wishly <i>Guide</i></b><small>IDEAS FOR MEANINGFUL MOMENTS</small></span></a><div class=\"wg-nav-content\" id=\"wg-nav-content\"><nav aria-label=\"Main navigation\" class=\"wg-primary-nav\" id=\"wg-primary-nav\"><a href=\"/\">Home</a><a href=\"/guides/\">Guides</a><a href=\"/topics/\">Topics</a><a href=\"/about/\">About</a><a href=\"/authors/ra-fahim/\">Developer</a><a href=\"/faq/\">FAQ</a></nav><div class=\"wg-nav-actions\"><div class=\"wg-nav-languages\"><a class=\"wg-lang-link\" href=\"/guides/theme-font-settings/\" lang=\"en\">EN</a><a class=\"wg-lang-link\" href=\"/bn/guides/wishly-theme-font-settings-bangla/\" lang=\"bn\">বাংলা</a></div><a class=\"wg-visit-link\" href=\"https://wishly.bd/\" rel=\"noopener noreferrer\" target=\"_blank\">Visit Wishly <span aria-hidden=\"true\">↗</span></a></div></div><button aria-controls=\"wg-nav-content\" aria-expanded=\"false\" aria-label=\"Open navigation menu\" class=\"wg-menu-toggle\" type=\"button\"><span></span><span></span><span></span></button></div></header><button aria-label=\"Close navigation menu\" class=\"wg-nav-scrim\" hidden=\"\" type=\"button\"></button><main id=\"main\"><section class=\"page-hero\"><div class=\"container\"><div class=\"page-heading\"><div class=\"breadcrumbs\"><a href=\"/bn/\">হোম</a><span>›</span><a href=\"/bn/guides/\">গাইড</a><span>›</span><span>Wishly Editor Tutorial</span></div><span class=\"eyebrow\">WISHLY ব্যবহারিক গাইড · Wishly Editor Tutorial</span><h1>Wishly Website-এর Theme ও Font Change করবেন কীভাবে: Design Settings Guide</h1><p>Wishly editor-এ current template-এর colour, theme ও font পরিবর্তন, mobile settings খুঁজে পাওয়া এবং Preview-তে design যাচাই করার বাংলা নির্দেশনা।</p></div></div></section><section class=\"page-body\"><div class=\"container article-layout\"><article class=\"article\"><p class=\"article-lead\">Wishly website-এর design নিজের পছন্দমতো করতে theme, colour ও font settings ব্যবহার করতে পারেন। তবে design settings যে template edit করছেন তার জন্যই প্রযোজ্য—অন্য website বা template-এ একই পরিবর্তন হবে, এমন ধরে নেবেন না।</p><figure class=\"article-featured-image\"><img alt=\"Wishly website builder-এর design settings panel ও colour নির্বাচন\" fetchpriority=\"high\" height=\"630\" loading=\"eager\" src=\"/assets/editorial/wishly-builder-design-settings.webp\" width=\"1200\" decoding=\"async\"><figcaption>Wishly Website-এর Theme ও Font Change করবেন কীভাবে: Design Settings Guide · Wishly Guide</figcaption></figure><div class=\"article-byline\"><span class=\"byline-mark\">✦</span><span><strong>Wishly Guide</strong><small>Practical product guides · <a href=\"/about/\">About this publication</a></small></span></div><div class=\"article-meta\"><span>Wishly Editor Tutorial</span><span>১০–১২ মিনিট পড়ুন</span><span>১৭ নভেম্বর ২০২৬-এ প্রকাশিত</span></div><section class=\"article-section\"><h2 id=\"section-1\">Design Settings দিয়ে কী পরিবর্তন করা যায়</h2><p>Wishly editor-এ available Design settings থেকে selected template-এর colour বা theme-related option এবং font নির্বাচন করা যায়। Preset option থাকলে সেখান থেকে বেছে নিতে পারেন; custom colour support থাকলে HEX colour value দিয়েও পছন্দের shade সেট করা যায়।</p><p>সব template বা screen-এ একই control থাকবে না। আপনি যে template edit করছেন তার editor-এ যে option দেখানো হচ্ছে সেটিই অনুসরণ করুন। আগে থেকেই পছন্দের colour ও font ঠিক করে নিলে বারবার design change করতে হবে না।</p><ul><li>Preset colour/theme থেকে নির্বাচন করুন।</li><li>Custom HEX colour option থাকলে ব্যবহার করুন।</li><li>Readable font নির্বাচন করুন।</li></ul></section><section class=\"article-section\"><h2 id=\"section-2\">Desktop-এ Design Settings কোথায় পাবেন</h2><p>প্রথমে Wishly account-এ sign in করে সংশ্লিষ্ট website Builder-এ খুলুন। Editor-এর settings বা design controls-এ গিয়ে theme/colour ও font option নির্বাচন করুন। Preview-তে পরিবর্তন সঙ্গে সঙ্গে বা editor-এর update অনুযায়ী দেখতে পাবেন।</p><p>শুধু রং সুন্দর দেখাচ্ছে কি না নয়, text contrast ও button visibility-ও দেখুন। Background light হলে text dark এবং background dark হলে readable light text ব্যবহার করা ভালো।</p><ul><li>Builder-এ নির্দিষ্ট website খুলুন।</li><li>Design বা Settings control খুঁজুন।</li><li>Colour ও font বদলে Preview দেখুন।</li></ul></section><section class=\"article-section\"><h2 id=\"section-3\">Mobile-এ Settings খুঁজে বের করুন</h2><p>Phone screen-এ editor layout desktop-এর মতো নাও হতে পারে। Mobile-এ Settings bottom toolbar-এ দেখা যেতে পারে। সেখানে না পেলে More (⋯) menu খুলে Design settings খুঁজুন। Menu label বা অবস্থান product update-এর সঙ্গে পরিবর্তিত হতে পারে।</p><p>Screen ছোট হওয়ায় colour picker বা font option দেখতে scroll করতে হতে পারে। Setting পরিবর্তনের পর Preview খুলে mobile layout আবার পরীক্ষা করুন।</p><ul><li>Bottom toolbar-এ Settings দেখুন।</li><li>না পেলে More (⋯) → Design settings খুলুন।</li><li>Preview-তে mobile appearance যাচাই করুন।</li></ul></section><section class=\"article-section\"><h2 id=\"section-4\">একটি সুন্দর colour combination বেছে নিন</h2><p>একটি primary colour এবং একটি accent colour দিয়ে শুরু করুন। সব heading, button ও background-এ অনেক রং ব্যবহার করলে page অগোছালো দেখাতে পারে। Brand-like consistency চাইলে একই palette বজায় রাখুন এবং গুরুত্বপূর্ণ button-এ যথেষ্ট contrast রাখুন।</p><p>Custom HEX ব্যবহার করলে value ঠিক আছে কি না দেখুন। Text ও background-এর contrast দুর্বল হলে চোখে চাপ পড়ে এবং mobile-এ লেখা পড়া কঠিন হয়। তাই decorative effect-এর আগে readability বিবেচনা করুন।</p><ul><li>২–৩টির বেশি প্রধান colour না রাখাই ভালো।</li><li>Button ও body text-এর contrast পরীক্ষা করুন।</li><li>Custom HEX value copy করার আগে double-check করুন।</li></ul></section><section class=\"article-section\"><h2 id=\"section-5\">Font নির্বাচন ও বাংলা লেখা পরীক্ষা</h2><p>Heading-এর জন্য stylistic font ব্যবহার করা যায়, কিন্তু দীর্ঘ paragraph-এর জন্য পরিষ্কার ও সহজে পড়া যায় এমন font ভালো। বাংলা ও English দুটো ভাষা থাকলে font glyph ঠিকমতো render হচ্ছে কি না দেখুন; কোনো অক্ষর ভেঙে যাচ্ছে বা square দেখাচ্ছে কি না পরীক্ষা করুন।</p><p>একই page-এ অতিরিক্ত font mix করবেন না। Heading ও body-র জন্য এক বা দুইটি consistent font রাখলে design professional দেখায়। Text size, line spacing এবং mobile width-এ paragraph কেমন wrap হচ্ছে সেটিও দেখুন।</p><ul><li>Bangla ও English অক্ষর render হচ্ছে কি না দেখুন।</li><li>Body paragraph-এর জন্য readable font নিন।</li><li>Font mix সীমিত রাখুন।</li></ul></section><section class=\"article-section\"><h2 id=\"section-6\">Preview, Save ও Publish-এর আগে পরীক্ষা করুন</h2><p>Design change-এর পর Preview খুলে পুরো page scroll করুন। Heading, paragraph, photo, button এবং media-র contrast ঠিক আছে কি না দেখুন। Template-এর সব section একই palette-এর সঙ্গে মানাচ্ছে কি না পরীক্ষা করুন।</p><p>প্রয়োজনীয় change শেষ হলে save করুন এবং publishing workflow অনুসরণ করুন। Live page-এ নতুন design দেখা যাচ্ছে কি না published URL খুলে নিশ্চিত হোন। Editor-এর design change অন্য template-এ automatic apply হবে ধরে নেবেন না।</p><ul><li>সম্পূর্ণ page Preview করুন।</li><li>Mobile ও desktop appearance পরীক্ষা করুন।</li><li>Save/publish-এর পরে live URL যাচাই করুন।</li></ul></section><section class=\"article-section\"><h2 id=\"frequently-asked-questions\">সাধারণ জিজ্ঞাসা</h2><details class=\"faq-item\"><summary>Theme change করলে কি সব Wishly website-এর design বদলাবে?</summary><p>না। Design settings যে template edit করছেন তার জন্য প্রযোজ্য; অন্য website-এ আলাদা করে সেটিং করতে হবে।</p></details><details class=\"faq-item\"><summary>Mobile-এ Design settings কোথায়?</summary><p>সাধারণত bottom toolbar-এ Settings থাকতে পারে। না পেলে More (⋯) খুলে Design settings দেখুন।</p></details><details class=\"faq-item\"><summary>Custom colour দেওয়া যায়?</summary><p>Editor-এ custom colour/HEX option থাকলে ব্যবহার করতে পারেন। না থাকলে available preset নির্বাচন করুন।</p></details><details class=\"faq-item\"><summary>বাংলা font ঠিকমতো না দেখালে কী করব?</summary><p>অন্য available font দিয়ে Preview করুন এবং বাংলা অক্ষর, line break ও mobile layout ঠিক আছে কি না পরীক্ষা করুন।</p></details></section><section class=\"article-section\"><h2>শেষ কথা</h2><p>ভালো design মানে শুধু সুন্দর রং নয়—পরিষ্কার লেখা, consistent font, যথেষ্ট contrast এবং mobile-এ ব্যবহারযোগ্য layout। প্রতিটি পরিবর্তন Preview করে তারপর save ও publish করুন।</p></section><section class=\"article-related\"><h2>সম্পর্কিত গাইড</h2><ul><li><a href=\"/guides/theme-font-settings/\">Theme Font Settings</a></li><li><a href=\"/guides/birthday-website-maker-what-to-look-for/\">Birthday Website Maker: What to Look For</a></li></ul></section><div class=\"article-related\"><h2>আরও পড়ুন</h2><p>Wishly website তৈরি, সাজানো ও share করার আরও practical guide পড়তে Guide Library দেখুন। <a href=\"/bn/guides/\">সব গাইড দেখুন ↗</a></p></div></article><aside class=\"article-toc\"><h3>এই গাইডে যা থাকছে</h3><nav><a href=\"#section-1\">Design Settings দিয়ে কী পরিবর্তন করা যায়</a><a href=\"#section-2\">Desktop-এ Design Settings কোথায় পাবেন</a><a href=\"#section-3\">Mobile-এ Settings খুঁজে বের করুন</a><a href=\"#section-4\">একটি সুন্দর colour combination বেছে নিন</a><a href=\"#section-5\">Font নির্বাচন ও বাংলা লেখা পরীক্ষা</a><a href=\"#section-6\">Preview, Save ও Publish-এর আগে পরীক্ষা করুন</a></nav></aside></div></section><section class=\"guide-to-wishly-cta\"><div class=\"guide-to-wishly-inner\"><div><p class=\"section-kicker\">IDEA থেকে WEBSITE</p><h2>আপনার আইডিয়াটি Wishly-তে তৈরি করুন</h2><p>একটি occasion ও template বেছে নিন, নিজের লেখা ও media যোগ করুন, preview দেখে publish করে share করুন।</p></div><div class=\"guide-to-wishly-actions\"><a class=\"button button-primary\" href=\"https://wishly.bd/\" target=\"_blank\" rel=\"noopener noreferrer\">Wishly খুলুন ↗</a></div></div></section><footer class=\"wg-footer\"><div class=\"wg-footer-top\"><div class=\"wg-footer-brand\"><a class=\"wg-brand wg-footer-logo\" href=\"/\"><span class=\"wg-brand-mark\">✦</span><span class=\"wg-brand-copy\"><b>Wishly <i>Guide</i></b><small>IDEAS FOR MEANINGFUL MOMENTS</small></span></a><p>Thoughtful ideas, practical relationship guidance and creative inspiration for love, friendship, family and every moment worth remembering.</p><a class=\"wg-footer-visit\" href=\"https://wishly.bd/\" rel=\"noopener noreferrer\" target=\"_blank\">Visit the main Wishly website ↗</a></div><div class=\"wg-footer-col\"><h2>Explore</h2><a href=\"/guides/\">All guides</a><a href=\"/video-guides/\">Video guides</a><a href=\"/topics/\">Browse topics</a><a href=\"/faq/\">Frequently asked questions</a><a href=\"/about/\">About this publication</a></div><div class=\"wg-footer-col\"><h2>Popular topics</h2><a href=\"/topics/love-and-romance/\">Love &amp; romance</a><a href=\"/topics/emotional-support/\">Emotional support</a><a href=\"/topics/communication-and-repair/\">Communication &amp; repair</a><a href=\"/topics/long-distance-relationships/\">Long-distance relationships</a><a href=\"/topics/friendship-and-gratitude/\">Friendship &amp; gratitude</a><a href=\"/topics/special-occasions/\">Special occasions</a><a href=\"/topics/personal-messages-and-ai/\">Messages &amp; AI writing</a></div><div class=\"wg-footer-col\"><h2>Publication</h2><a href=\"/authors/ra-fahim/\">Meet the developer</a><a href=\"/editorial-policy/\">Editorial policy</a><a href=\"/contact/\">Contact</a><a href=\"/privacy/\">Privacy policy</a><a href=\"/terms/\">Terms of use</a><a href=\"/\" lang=\"en\">English</a><a href=\"/bn/\" lang=\"bn\">বাংলা</a><a href=\"/feed.xml\" type=\"application/rss+xml\">RSS feed</a></div></div><div class=\"wg-footer-bottom\"><span>© 2026 Wishly Guide. All rights reserved.</span><span>Informational guides from the Wishly team.</span></div></footer></main>",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Article",
+        "@id": "https://guide.wishly.bd/bn/guides/wishly-theme-font-settings-bangla/#article",
+        "headline": "Wishly Website-এর Theme ও Font Change করবেন কীভাবে: Design Settings Guide",
+        "description": "Wishly editor-এ current template-এর colour, theme ও font পরিবর্তন, mobile settings খুঁজে পাওয়া এবং Preview-তে design যাচাই করার বাংলা নির্দেশনা।",
+        "image": [
+          "https://guide.wishly.bd/assets/editorial/wishly-builder-design-settings.webp"
+        ],
+        "datePublished": "2026-11-17",
+        "dateModified": "2026-11-17",
+        "author": {
+          "@type": "Organization",
+          "@id": "https://guide.wishly.bd/#organization",
+          "name": "Wishly Guide",
+          "url": "https://guide.wishly.bd/about/"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "@id": "https://guide.wishly.bd/#organization",
+          "name": "Wishly Guide",
+          "url": "https://guide.wishly.bd/",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://guide.wishly.bd/assets/logo-mark-512.png",
+            "width": 180,
+            "height": 180
+          }
+        },
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://guide.wishly.bd/bn/guides/wishly-theme-font-settings-bangla/"
+        },
+        "inLanguage": "bn-BD",
+        "articleSection": "Wishly Editor Tutorial",
+        "keywords": "Wishly theme change, Wishly font change, Wishly design settings, Wishly website colour, Wishly editor Bangla tutorial"
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://guide.wishly.bd/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Guides",
+            "item": "https://guide.wishly.bd/guides/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Wishly Editor Tutorial",
+            "item": "https://guide.wishly.bd/bn/guides/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Wishly Website-এর Theme ও Font Change করবেন কীভাবে: Design Settings Guide",
+            "item": "https://guide.wishly.bd/bn/guides/wishly-theme-font-settings-bangla/"
+          }
+        ]
+      }
+    ]
+  },
+  "lang": "bn"
+}

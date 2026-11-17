@@ -5,9 +5,7 @@ import pageData from "@/content/guides__wedding-invitation-website.json";
 export const metadata: Metadata = {
   title: "Wedding Invitation Website Guide",
   description: "Create a useful online wedding invitation with names, dates, time zones, venue details, event schedule, RSVP information and mobile-friendly design.",
-  alternates: {
-    canonical: "/guides/wedding-invitation-website/",
-  },
+  alternates: { canonical: "/guides/wedding-invitation-website/", languages: { en: "https://guide.wishly.bd/guides/wedding-invitation-website/", bn: "https://guide.wishly.bd/bn/guides/wedding-invitation-website-bangla/", "x-default": "https://guide.wishly.bd/guides/wedding-invitation-website/" } },
   robots: { index: true, follow: true, googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1, "max-video-preview": -1 } },
   openGraph: {
     type: "article", publishedTime: "2026-11-07", modifiedTime: "2026-11-07", authors: ["https://guide.wishly.bd/about/"], title: "Wedding Invitation Website Guide",

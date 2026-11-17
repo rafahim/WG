@@ -1,0 +1,74 @@
+{
+  "html": "<a class=\"skip-link\" href=\"#main\">Skip to content</a><header class=\"wg-site-header\"><div class=\"wg-nav-inner\"><a aria-label=\"Wishly Guide home\" class=\"wg-brand\" href=\"/\"><span class=\"wg-brand-mark\">✦</span><span class=\"wg-brand-copy\"><b>Wishly <i>Guide</i></b><small>IDEAS FOR MEANINGFUL MOMENTS</small></span></a><div class=\"wg-nav-content\" id=\"wg-nav-content\"><nav aria-label=\"Main navigation\" class=\"wg-primary-nav\" id=\"wg-primary-nav\"><a href=\"/\">Home</a><a href=\"/guides/\">Guides</a><a href=\"/topics/\">Topics</a><a href=\"/about/\">About</a><a href=\"/authors/ra-fahim/\">Developer</a><a href=\"/faq/\">FAQ</a></nav><div class=\"wg-nav-actions\"><div class=\"wg-nav-languages\"><a class=\"wg-lang-link\" href=\"/guides/share-wish-website-link/\" lang=\"en\">EN</a><a class=\"wg-lang-link\" href=\"/bn/guides/wishly-share-link-bangla/\" lang=\"bn\">বাংলা</a></div><a class=\"wg-visit-link\" href=\"https://wishly.bd/\" rel=\"noopener noreferrer\" target=\"_blank\">Visit Wishly <span aria-hidden=\"true\">↗</span></a></div></div><button aria-controls=\"wg-nav-content\" aria-expanded=\"false\" aria-label=\"Open navigation menu\" class=\"wg-menu-toggle\" type=\"button\"><span></span><span></span><span></span></button></div></header><button aria-label=\"Close navigation menu\" class=\"wg-nav-scrim\" hidden=\"\" type=\"button\"></button><main id=\"main\"><section class=\"page-hero\"><div class=\"container\"><div class=\"page-heading\"><div class=\"breadcrumbs\"><a href=\"/bn/\">হোম</a><span>›</span><a href=\"/bn/guides/\">গাইড</a><span>›</span><span>Wishly Sharing Tutorial</span></div><span class=\"eyebrow\">WISHLY ব্যবহারিক গাইড · Wishly Sharing Tutorial</span><h1>Wishly Website-এর Link Copy ও Share করবেন কীভাবে: WhatsApp, Messenger ও QR Guide</h1><p>Wishly website publish করার পর link copy, live page test, WhatsApp বা Messenger-এ share এবং private page হলে password আলাদা করে পাঠানোর নিয়ম জানুন।</p></div></div></section><section class=\"page-body\"><div class=\"container article-layout\"><article class=\"article\"><p class=\"article-lead\">Wishly website তৈরি করার পর সেটি অন্যদের দেখাতে published link share করতে হবে। Link পাঠানোর আগে live page পরীক্ষা করা, সঠিক মানুষকে পাঠানো এবং password-protected page হলে password আলাদা করে দেওয়া—এই বিষয়গুলো জানা জরুরি।</p><figure class=\"article-featured-image\"><img alt=\"Wishly published website link preview এবং sharing concept\" fetchpriority=\"high\" height=\"630\" loading=\"eager\" src=\"/assets/editorial/wishly-link-preview-guide.webp\" width=\"1200\" decoding=\"async\"><figcaption>Wishly Website-এর Link Copy ও Share করবেন কীভাবে: WhatsApp, Messenger ও QR Guide · Wishly Guide</figcaption></figure><div class=\"article-byline\"><span class=\"byline-mark\">✦</span><span><strong>Wishly Guide</strong><small>Practical product guides · <a href=\"/about/\">About this publication</a></small></span></div><div class=\"article-meta\"><span>Wishly Sharing Tutorial</span><span>১০–১২ মিনিট পড়ুন</span><span>১৭ নভেম্বর ২০২৬-এ প্রকাশিত</span></div><section class=\"article-section\"><h2 id=\"section-1\">প্রথমে Website Publish হয়েছে কি না নিশ্চিত করুন</h2><p>Builder-এ content edit শেষ হলে Preview দেখে save করুন এবং publishing workflow সম্পন্ন করুন। Publish শেষ হলে Wishly আপনাকে website-এর live URL দেখায় বা copy করার option দেয়। Editor preview URL আর public website link এক জিনিস নয়—share করার জন্য published URL ব্যবহার করুন।</p><p>Publish-এর পর link copy করে browser-এর নতুন tab-এ খুলুন। Login করা account-এর বাইরে visitor page কেমন দেখেন তা যাচাই করুন। Password protection চালু থাকলে lock screen দেখা যাচ্ছে কি না দেখুন।</p><ul><li>Content Preview ও Save করুন।</li><li>Publish workflow সম্পন্ন করুন।</li><li>Live URL নতুন tab-এ খুলে পরীক্ষা করুন।</li></ul></section><section class=\"article-section\"><h2 id=\"section-2\">Link Copy করে WhatsApp বা Messenger-এ পাঠান</h2><p>Published page-এর link copy করুন এবং WhatsApp, Messenger বা অন্য messaging app-এর chat box-এ paste করুন। শুধু link পাঠানোর বদলে একটি ছোট line লিখুন—কেন পাঠাচ্ছেন বা recipient কী দেখবেন। এতে message অনেক বেশি personal ও পরিষ্কার হয়।</p><p>Group-এ share করলে group-এর সবাই link দেখতে বা forward করতে পারে। Page-এ personal message বা photo থাকলে group audience ঠিক আছে কি না আগে ভেবে নিন। Public social post করার আগে privacy বিবেচনা করুন।</p><ul><li>Copy করা published URL chat-এ paste করুন।</li><li>ছোট personal introduction যোগ করুন।</li><li>Group share করার আগে audience যাচাই করুন।</li></ul></section><section class=\"article-section\"><h2 id=\"section-3\">Password-protected Website হলে Password আলাদা পাঠান</h2><p>আপনার page-এ Password protection চালু থাকলে recipient link খুলে আগে lock screen দেখবেন। সঠিক password দিলে content load হবে। Link এবং password একই public message-এ না পাঠিয়ে আলাদা channel-এ দেওয়া ভালো।</p><p>Wishly-এর Send link by email option link পাঠায়, কিন্তু password email-এ অন্তর্ভুক্ত করে না। Protected page হলে recipient-কে owner-এর কাছে password চাইতে বলা হয়। তাই email-এ link পাঠালেও password নিজে আলাদা করে share করুন।</p><ul><li>Link পাঠান এক channel-এ।</li><li>Password phone call বা আলাদা message-এ দিন।</li><li>Email-এ password যাবে ধরে নেবেন না।</li></ul></section><section class=\"article-section\"><h2 id=\"section-4\">Preview image বা link description পরীক্ষা করুন</h2><p>Messaging app link preview তৈরি করতে পারে—যেমন title, description বা thumbnail। Publish করার পর preview সবসময় সঙ্গে সঙ্গে update নাও হতে পারে; app-এর cache বা পুরোনো preview-এর কারণে আগের তথ্য দেখা যেতে পারে। Link খুলে actual page যাচাই করুন, preview card-কে content-এর একমাত্র পরীক্ষা হিসেবে ধরবেন না।</p><p>Password-protected page-এর preview privacy রক্ষার জন্য generic হতে পারে। এটি ইচ্ছাকৃত হতে পারে, কারণ private title বা personal content preview-তে দেখানো উচিত নয়।</p><ul><li>Live URL খুলে actual page দেখুন।</li><li>পুরোনো preview দেখালে app cache-এর বিষয়টি বিবেচনা করুন।</li><li>Password-protected page-এ generic preview দেখা স্বাভাবিক হতে পারে।</li></ul></section><section class=\"article-section\"><h2 id=\"section-5\">QR Code দিয়ে Website Share করার ব্যবহার</h2><p>যদি আপনার Wishly flow বা অন্য কোনো QR generator published URL-এর QR তৈরি করার সুযোগ দেয়, তাহলে invitation card, printed note বা event display-এ QR ব্যবহার করতে পারেন। QR scan করলে একই published URL খোলা উচিত; print করার আগে কয়েকটি phone দিয়ে scan করে পরীক্ষা করুন।</p><p>QR code public জায়গায় রাখলে যেকেউ scan করতে পারে। তাই page-এ private content থাকলে audience ও password protection বিবেচনা করুন। QR image-এ password লিখে রাখবেন না।</p><ul><li>শুধু published URL-এর QR তৈরি করুন।</li><li>Print করার আগে scan test করুন।</li><li>Password আলাদা channel-এ রাখুন।</li></ul></section><section class=\"article-section\"><h2 id=\"section-6\">Link কাজ না করলে কী পরীক্ষা করবেন</h2><p>Link ভুল copy হয়েছে কি না, page publish সম্পন্ন হয়েছে কি না এবং URL-এর শেষে অপ্রয়োজনীয় punctuation যুক্ত হয়েছে কি না দেখুন। অন্য browser বা mobile data দিয়ে link খুলে পরীক্ষা করুন। Password prompt এলে current password দিন; password change হয়ে থাকলে পুরোনোটি আর কাজ করবে না।</p><p>Page update করার পরও পুরোনো preview দেখা যেতে পারে। Actual page refresh করে দেখুন এবং recipient-কে নতুন link পাঠাতে হলে একই URL আবার share করুন। Access issue থাকলে owner account থেকে publishing status পরীক্ষা করুন।</p><ul><li>URL সম্পূর্ণ ও সঠিক কি না দেখুন।</li><li>অন্য browser/device-এ পরীক্ষা করুন।</li><li>Password পরিবর্তন হলে নতুন password পাঠান।</li></ul></section><section class=\"article-section\"><h2 id=\"frequently-asked-questions\">সাধারণ জিজ্ঞাসা</h2><details class=\"faq-item\"><summary>Wishly website-এর কোন link share করব?</summary><p>Publish শেষ হওয়ার পর যে live website URL পাওয়া যায় সেটি share করবেন; editor preview বা builder link নয়।</p></details><details class=\"faq-item\"><summary>WhatsApp-এ link পাঠানো যাবে?</summary><p>হ্যাঁ, published URL chat-এ paste করে একটি ছোট message যোগ করতে পারেন।</p></details><details class=\"faq-item\"><summary>Password কি email-এর সঙ্গে যায়?</summary><p>না। Wishly-এর link-by-email option link পাঠায়; protected page-এর password আলাদা করে owner-কে share করতে হয়।</p></details><details class=\"faq-item\"><summary>QR code ব্যবহার করা যাবে?</summary><p>Published URL দিয়ে QR তৈরি করে ব্যবহার করতে পারেন, তবে print/share করার আগে একাধিক device দিয়ে scan পরীক্ষা করুন।</p></details></section><section class=\"article-section\"><h2>শেষ কথা</h2><p>সঠিক published link, recipient-এর উপযোগী sharing channel এবং password থাকলে আলাদা delivery—এই তিনটি বিষয় ঠিক থাকলে Wishly page share করা সহজ হয়। Share করার পর live URL খুলে কাজ করছে কি না নিজেও পরীক্ষা করুন।</p></section><section class=\"article-related\"><h2>সম্পর্কিত গাইড</h2><ul><li><a href=\"/guides/share-wish-website-link/\">Share Wish Website Link</a></li><li><a href=\"/guides/password-protect-wishly-website/\">Password Protect Wishly Website</a></li></ul></section><div class=\"article-related\"><h2>আরও পড়ুন</h2><p>Wishly website তৈরি, সাজানো ও share করার আরও practical guide পড়তে Guide Library দেখুন। <a href=\"/bn/guides/\">সব গাইড দেখুন ↗</a></p></div></article><aside class=\"article-toc\"><h3>এই গাইডে যা থাকছে</h3><nav><a href=\"#section-1\">প্রথমে Website Publish হয়েছে কি না নিশ্চিত করুন</a><a href=\"#section-2\">Link Copy করে WhatsApp বা Messenger-এ পাঠান</a><a href=\"#section-3\">Password-protected Website হলে Password আলাদা পাঠান</a><a href=\"#section-4\">Preview image বা link description পরীক্ষা করুন</a><a href=\"#section-5\">QR Code দিয়ে Website Share করার ব্যবহার</a><a href=\"#section-6\">Link কাজ না করলে কী পরীক্ষা করবেন</a></nav></aside></div></section><section class=\"guide-to-wishly-cta\"><div class=\"guide-to-wishly-inner\"><div><p class=\"section-kicker\">IDEA থেকে WEBSITE</p><h2>আপনার আইডিয়াটি Wishly-তে তৈরি করুন</h2><p>একটি occasion ও template বেছে নিন, নিজের লেখা ও media যোগ করুন, preview দেখে publish করে share করুন।</p></div><div class=\"guide-to-wishly-actions\"><a class=\"button button-primary\" href=\"https://wishly.bd/\" target=\"_blank\" rel=\"noopener noreferrer\">Wishly খুলুন ↗</a></div></div></section><footer class=\"wg-footer\"><div class=\"wg-footer-top\"><div class=\"wg-footer-brand\"><a class=\"wg-brand wg-footer-logo\" href=\"/\"><span class=\"wg-brand-mark\">✦</span><span class=\"wg-brand-copy\"><b>Wishly <i>Guide</i></b><small>IDEAS FOR MEANINGFUL MOMENTS</small></span></a><p>Thoughtful ideas, practical relationship guidance and creative inspiration for love, friendship, family and every moment worth remembering.</p><a class=\"wg-footer-visit\" href=\"https://wishly.bd/\" rel=\"noopener noreferrer\" target=\"_blank\">Visit the main Wishly website ↗</a></div><div class=\"wg-footer-col\"><h2>Explore</h2><a href=\"/guides/\">All guides</a><a href=\"/video-guides/\">Video guides</a><a href=\"/topics/\">Browse topics</a><a href=\"/faq/\">Frequently asked questions</a><a href=\"/about/\">About this publication</a></div><div class=\"wg-footer-col\"><h2>Popular topics</h2><a href=\"/topics/love-and-romance/\">Love &amp; romance</a><a href=\"/topics/emotional-support/\">Emotional support</a><a href=\"/topics/communication-and-repair/\">Communication &amp; repair</a><a href=\"/topics/long-distance-relationships/\">Long-distance relationships</a><a href=\"/topics/friendship-and-gratitude/\">Friendship &amp; gratitude</a><a href=\"/topics/special-occasions/\">Special occasions</a><a href=\"/topics/personal-messages-and-ai/\">Messages &amp; AI writing</a></div><div class=\"wg-footer-col\"><h2>Publication</h2><a href=\"/authors/ra-fahim/\">Meet the developer</a><a href=\"/editorial-policy/\">Editorial policy</a><a href=\"/contact/\">Contact</a><a href=\"/privacy/\">Privacy policy</a><a href=\"/terms/\">Terms of use</a><a href=\"/\" lang=\"en\">English</a><a href=\"/bn/\" lang=\"bn\">বাংলা</a><a href=\"/feed.xml\" type=\"application/rss+xml\">RSS feed</a></div></div><div class=\"wg-footer-bottom\"><span>© 2026 Wishly Guide. All rights reserved.</span><span>Informational guides from the Wishly team.</span></div></footer></main>",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Article",
+        "@id": "https://guide.wishly.bd/bn/guides/wishly-share-link-bangla/#article",
+        "headline": "Wishly Website-এর Link Copy ও Share করবেন কীভাবে: WhatsApp, Messenger ও QR Guide",
+        "description": "Wishly website publish করার পর link copy, live page test, WhatsApp বা Messenger-এ share এবং private page হলে password আলাদা করে পাঠানোর নিয়ম জানুন।",
+        "image": [
+          "https://guide.wishly.bd/assets/editorial/wishly-link-preview-guide.webp"
+        ],
+        "datePublished": "2026-11-17",
+        "dateModified": "2026-11-17",
+        "author": {
+          "@type": "Organization",
+          "@id": "https://guide.wishly.bd/#organization",
+          "name": "Wishly Guide",
+          "url": "https://guide.wishly.bd/about/"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "@id": "https://guide.wishly.bd/#organization",
+          "name": "Wishly Guide",
+          "url": "https://guide.wishly.bd/",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://guide.wishly.bd/assets/logo-mark-512.png",
+            "width": 180,
+            "height": 180
+          }
+        },
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://guide.wishly.bd/bn/guides/wishly-share-link-bangla/"
+        },
+        "inLanguage": "bn-BD",
+        "articleSection": "Wishly Sharing Tutorial",
+        "keywords": "Wishly website link share, Wishly link copy, WhatsApp এ Wishly website পাঠানো, Messenger website share, Wishly QR code"
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://guide.wishly.bd/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Guides",
+            "item": "https://guide.wishly.bd/guides/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Wishly Sharing Tutorial",
+            "item": "https://guide.wishly.bd/bn/guides/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Wishly Website-এর Link Copy ও Share করবেন কীভাবে: WhatsApp, Messenger ও QR Guide",
+            "item": "https://guide.wishly.bd/bn/guides/wishly-share-link-bangla/"
+          }
+        ]
+      }
+    ]
+  },
+  "lang": "bn"
+}

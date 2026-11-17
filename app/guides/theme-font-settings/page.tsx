@@ -5,9 +5,7 @@ import pageData from "@/content/guides__theme-font-settings.json";
 export const metadata: Metadata = {
   title: "Customize Wishly Template Colors & Fonts",
   description: "Learn how to customize a Wishly template with a color preset, custom HEX color, font selection and a careful mobile preview.",
-  alternates: {
-    canonical: "/guides/theme-font-settings/",
-  },
+  alternates: { canonical: "/guides/theme-font-settings/", languages: { en: "https://guide.wishly.bd/guides/theme-font-settings/", bn: "https://guide.wishly.bd/bn/guides/wishly-theme-font-settings-bangla/", "x-default": "https://guide.wishly.bd/guides/theme-font-settings/" } },
   robots: { index: true, follow: true, googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1, "max-video-preview": -1 } },
   openGraph: {
     type: "article", publishedTime: "2026-11-07", modifiedTime: "2026-11-07", authors: ["https://guide.wishly.bd/about/"], title: "Customize Wishly Template Colors & Fonts",

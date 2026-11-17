@@ -5,9 +5,7 @@ import pageData from "@/content/guides__digital-love-letter-website.json";
 export const metadata: Metadata = {
   title: "Create a Digital Love Letter Website",
   description: "Learn how to turn a heartfelt letter into a personal online experience with a clear opening, meaningful details, photographs and a thoughtful ending.",
-  alternates: {
-    canonical: "/guides/digital-love-letter-website/",
-  },
+  alternates: { canonical: "/guides/digital-love-letter-website/", languages: { en: "https://guide.wishly.bd/guides/digital-love-letter-website/", bn: "https://guide.wishly.bd/bn/guides/digital-love-letter-website-bangla/", "x-default": "https://guide.wishly.bd/guides/digital-love-letter-website/" } },
   robots: { index: true, follow: true, googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1, "max-video-preview": -1 } },
   openGraph: {
     type: "article", publishedTime: "2026-11-07", modifiedTime: "2026-11-07", authors: ["https://guide.wishly.bd/about/"], title: "Create a Digital Love Letter Website",

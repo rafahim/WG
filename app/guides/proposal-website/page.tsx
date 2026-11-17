@@ -5,9 +5,7 @@ import pageData from "@/content/guides__proposal-website.json";
 export const metadata: Metadata = {
   title: "How to Make a Proposal Website | Wishly Guide",
   description: "Plan a romantic proposal website with a thoughtful story, meaningful photos, a clear final question and a respectful way to share it.",
-  alternates: {
-    canonical: "/guides/proposal-website/",
-  },
+  alternates: { canonical: "/guides/proposal-website/", languages: { en: "https://guide.wishly.bd/guides/proposal-website/", bn: "https://guide.wishly.bd/bn/guides/proposal-website-bangla/", "x-default": "https://guide.wishly.bd/guides/proposal-website/" } },
   robots: { index: true, follow: true, googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1, "max-video-preview": -1 } },
   openGraph: {
     type: "article", publishedTime: "2026-11-07", modifiedTime: "2026-11-07", authors: ["https://guide.wishly.bd/about/"], title: "How to Make a Proposal Website | Wishly Guide",
